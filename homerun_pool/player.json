@@ -1,0 +1,662 @@
+[
+{
+    "pk": 150, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 429665, 
+        "name": "E. Encarnacion", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 151, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 430832, 
+        "name": "J. Bautista", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 152, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 116662, 
+        "name": "A. Jones", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 153, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 408234, 
+        "name": "M. Cabrera", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 154, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 453064, 
+        "name": "T. Tulowitzki", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 155, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 471865, 
+        "name": "C. Gonzalez", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 156, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 545361, 
+        "name": "M. Trout", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 157, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 518792, 
+        "name": "J. Heyward", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 158, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 435263, 
+        "name": "B. McCann", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 159, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 519317, 
+        "name": "G. Stanton", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 160, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 501800, 
+        "name": "A. Craig", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 161, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 519203, 
+        "name": "A. Rizzo", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 162, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 425902, 
+        "name": "P. Fielder", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 163, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 547180, 
+        "name": "B. Harper", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 164, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 457705, 
+        "name": "A. McCutchen", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 165, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 434604, 
+        "name": "M. Morse", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 166, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 571431, 
+        "name": "M. Adams", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 167, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 405395, 
+        "name": "A. Pujols", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 168, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 624577, 
+        "name": "Y. Puig", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 169, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 571976, 
+        "name": "W. Myers", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 170, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 443558, 
+        "name": "N. Cruz", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 171, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 134181, 
+        "name": "A. Beltre", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 172, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 458015, 
+        "name": "J. Votto", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 173, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 460576, 
+        "name": "C. Gomez", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 174, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 429666, 
+        "name": "JJ Hardy", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 175, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 285078, 
+        "name": "J. Hamilton", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 176, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 435041, 
+        "name": "C. Quentin", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 177, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 136860, 
+        "name": "C. Beltran", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 178, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 467055, 
+        "name": "P. Sandoval", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 179, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 501647, 
+        "name": "W. Rosario", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 180, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 456714, 
+        "name": "B. Butler", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 181, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 435079, 
+        "name": "I. Kinsler", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 182, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 457708, 
+        "name": "J. Upton", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 183, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 425545, 
+        "name": "J. Willingham", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 184, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 431151, 
+        "name": "D. Wright", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 185, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 467092, 
+        "name": "W. Ramos", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 186, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 425766, 
+        "name": "J. Loney", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 187, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 430404, 
+        "name": "J. Gomes", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 188, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 444432, 
+        "name": "M. Trumbo", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 189, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 434670, 
+        "name": "H. Ramirez", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 190, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 502126, 
+        "name": "D. Brown", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 191, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 457763, 
+        "name": "B. Posey", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 192, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 518692, 
+        "name": "F. Freeman", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 193, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 457803, 
+        "name": "J. Bruce", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 194, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 408252, 
+        "name": "B. Phillips", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 195, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 543333, 
+        "name": "E. Hosmer", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 196, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 452104, 
+        "name": "C. Headley", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 197, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 425664, 
+        "name": "S. Victorino", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 198, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 576397, 
+        "name": "J. Gyorko", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 199, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 430637, 
+        "name": "K. Johnson", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 200, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 519025, 
+        "name": "W. Middlebrooks", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 201, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 467793, 
+        "name": "C. Santana", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 202, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 594828, 
+        "name": "E. Gattis", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 203, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 502671, 
+        "name": "P. Goldschmidt", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 204, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 542455, 
+        "name": "O. Arcia", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 205, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 408047, 
+        "name": "J. Morneau", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 206, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 458675, 
+        "name": "C. Rasmus", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 207, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 425783, 
+        "name": "S. Soo Choo", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 208, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 453943, 
+        "name": "T. Frazier", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 209, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 450317, 
+        "name": "JP Arencibia", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 210, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 475582, 
+        "name": "R. Zimmerman", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 211, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 407812, 
+        "name": "M. Holliday", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 212, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 446263, 
+        "name": "L. Duda", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 213, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 446334, 
+        "name": "E. Longoria", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 214, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 476883, 
+        "name": "P. Alvarez", 
+        "homerun": 0
+    }
+},
+{
+    "pk": 216, 
+    "model": "teams.player", 
+    "fields": {
+        "hot": 0, 
+        "mlb_id": 120074, 
+        "name": "D. Ortiz", 
+        "homerun": 0
+    }
+}
+]

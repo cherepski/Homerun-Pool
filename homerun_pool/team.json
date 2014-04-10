@@ -1,0 +1,1107 @@
+[
+{
+    "pk": 137, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            165, 
+            163, 
+            161, 
+            159, 
+            154, 
+            150
+        ], 
+        "name": "Femme Fatale", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 138, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            166, 
+            164, 
+            162, 
+            159, 
+            155, 
+            151
+        ], 
+        "name": "Kane's Crew", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 139, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            163, 
+            162, 
+            159, 
+            156, 
+            151
+        ], 
+        "name": "Monthly Donation", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 140, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            158, 
+            167, 
+            163, 
+            162, 
+            159, 
+            157, 
+            151
+        ], 
+        "name": "Purple Haze", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 141, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            163, 
+            162, 
+            159, 
+            158, 
+            152
+        ], 
+        "name": "NADS", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 142, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            168, 
+            163, 
+            162, 
+            160, 
+            158, 
+            153
+        ], 
+        "name": "Little Lebowski Urban Achievers", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 143, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            177, 
+            162, 
+            173, 
+            158, 
+            170
+        ], 
+        "name": "One Eyed Willy", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 144, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            181, 
+            180, 
+            177, 
+            162, 
+            174, 
+            172, 
+            151
+        ], 
+        "name": "SUDDDS", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 145, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            154, 
+            163, 
+            162, 
+            175, 
+            158, 
+            171
+        ], 
+        "name": "The Great Wugino", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 146, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            160, 
+            167, 
+            178, 
+            176, 
+            155, 
+            156, 
+            153
+        ], 
+        "name": "Long Ding Dongs", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 147, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            163, 
+            162, 
+            159, 
+            156, 
+            151
+        ], 
+        "name": "Wil You Admyers My Trout?", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 148, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            168, 
+            179, 
+            161, 
+            159, 
+            155, 
+            151
+        ], 
+        "name": "Dirty Birds", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 149, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            183, 
+            162, 
+            159, 
+            166, 
+            153
+        ], 
+        "name": "86 Mets", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 150, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            186, 
+            185, 
+            178, 
+            161, 
+            172, 
+            158, 
+            153
+        ], 
+        "name": "Anything You Need Coach!", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 151, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            157, 
+            167, 
+            163, 
+            155, 
+            170, 
+            158, 
+            171
+        ], 
+        "name": "Mike Rice", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 152, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            168, 
+            167, 
+            184, 
+            155, 
+            162, 
+            156, 
+            164
+        ], 
+        "name": "High Rollers", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 153, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            168, 
+            167, 
+            163, 
+            159, 
+            162, 
+            156, 
+            164
+        ], 
+        "name": "High Rollers 2", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 154, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            187, 
+            184, 
+            163, 
+            177, 
+            162, 
+            156, 
+            182
+        ], 
+        "name": "Midway Beach", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 155, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            163, 
+            162, 
+            159, 
+            164, 
+            188
+        ], 
+        "name": "Blow My Trumbo", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 156, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            195, 
+            167, 
+            180, 
+            162, 
+            161, 
+            189, 
+            152
+        ], 
+        "name": "Brooklyn Dodgers", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 157, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            196, 
+            175, 
+            192, 
+            162, 
+            159, 
+            155, 
+            164
+        ], 
+        "name": "SI Longshoreman", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 158, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            181, 
+            167, 
+            163, 
+            162, 
+            159, 
+            156, 
+            151
+        ], 
+        "name": "The No Necks", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 159, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            181, 
+            193, 
+            161, 
+            159, 
+            158, 
+            151
+        ], 
+        "name": "Bruno's Beasts", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 160, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            197, 
+            194, 
+            157, 
+            191, 
+            164, 
+            190, 
+            153
+        ], 
+        "name": "The Orphans", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 161, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            199, 
+            166, 
+            164, 
+            159, 
+            188, 
+            151
+        ], 
+        "name": "Rubberneck", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 162, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            168, 
+            167, 
+            166, 
+            163, 
+            159, 
+            188, 
+            198
+        ], 
+        "name": "Bilge Rat", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 163, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            166, 
+            168, 
+            163, 
+            162, 
+            159, 
+            164, 
+            151
+        ], 
+        "name": "Caldwell Crashers", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 164, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            166, 
+            167, 
+            158, 
+            162, 
+            159, 
+            164, 
+            177
+        ], 
+        "name": "Mama Said Tanaka You Out", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 165, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            163, 
+            162, 
+            159, 
+            168, 
+            150
+        ], 
+        "name": "O's Before Hoes", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 166, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            200, 
+            167, 
+            163, 
+            162, 
+            159, 
+            175, 
+            173
+        ], 
+        "name": "Syphilitic Madness", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 167, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            154, 
+            163, 
+            161, 
+            159, 
+            158, 
+            151
+        ], 
+        "name": "Sports Pope", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 168, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            166, 
+            162, 
+            159, 
+            157, 
+            153
+        ], 
+        "name": "Holtsville Homers", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 169, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            202, 
+            167, 
+            163, 
+            162, 
+            159, 
+            168, 
+            151
+        ], 
+        "name": "Nutley Numbnuts", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 170, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            164, 
+            162, 
+            193, 
+            158, 
+            151
+        ], 
+        "name": "Got the Runs", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 171, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            180, 
+            201, 
+            163, 
+            162, 
+            193, 
+            192, 
+            175
+        ], 
+        "name": "Got the Runs 2", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 172, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            163, 
+            200, 
+            159, 
+            168, 
+            153
+        ], 
+        "name": "Where There's 2 Wills There's No Way", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 173, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            154, 
+            167, 
+            164, 
+            162, 
+            159, 
+            157, 
+            151
+        ], 
+        "name": "Suburban Commando", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 174, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            200, 
+            155, 
+            162, 
+            159, 
+            157, 
+            188
+        ], 
+        "name": "Baby Bev's Bashers", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 175, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            170, 
+            162, 
+            159, 
+            156, 
+            158
+        ], 
+        "name": "OTW", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 176, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            204, 
+            168, 
+            163, 
+            157, 
+            159, 
+            156, 
+            203
+        ], 
+        "name": "90 Win Mets", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 177, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            163, 
+            162, 
+            159, 
+            156, 
+            151
+        ], 
+        "name": "Breakers", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 178, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            175, 
+            162, 
+            159, 
+            189, 
+            188
+        ], 
+        "name": "2 Balls & A Bat", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 179, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            157, 
+            167, 
+            163, 
+            162, 
+            159, 
+            205, 
+            203
+        ], 
+        "name": "Trial & Error", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 180, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            157, 
+            183, 
+            163, 
+            180, 
+            158, 
+            156, 
+            153
+        ], 
+        "name": "Podiatribe", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 181, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            183, 
+            166, 
+            162, 
+            158, 
+            164, 
+            153
+        ], 
+        "name": "Bounty Hunters", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 182, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            166, 
+            163, 
+            162, 
+            159, 
+            155, 
+            151
+        ], 
+        "name": "Team Cuozzo", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 183, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            166, 
+            167, 
+            163, 
+            162, 
+            160, 
+            188, 
+            151
+        ], 
+        "name": "American Muscle", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 184, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            157, 
+            206, 
+            162, 
+            154, 
+            155, 
+            151
+        ], 
+        "name": "The Shy Wolf of Naples", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 185, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            157, 
+            163, 
+            162, 
+            159, 
+            193, 
+            151
+        ], 
+        "name": "Nick Bombs", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 186, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            204, 
+            157, 
+            163, 
+            189, 
+            207, 
+            158, 
+            153
+        ], 
+        "name": "Wet Bandits", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 187, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            184, 
+            167, 
+            163, 
+            162, 
+            155, 
+            158, 
+            151
+        ], 
+        "name": "Kaufman", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 188, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            168, 
+            163, 
+            162, 
+            159, 
+            195, 
+            203
+        ], 
+        "name": "Team 5", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 189, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            168, 
+            162, 
+            191, 
+            158, 
+            153
+        ], 
+        "name": "Savanna Club", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 190, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            168, 
+            167, 
+            157, 
+            162, 
+            159, 
+            164, 
+            188
+        ], 
+        "name": "Los Pollos Hermanos", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 191, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            177, 
+            211, 
+            163, 
+            162, 
+            172, 
+            158, 
+            208
+        ], 
+        "name": "AMMO", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 192, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            207, 
+            168, 
+            163, 
+            205, 
+            159, 
+            155, 
+            156
+        ], 
+        "name": "The Bach Ballers", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 193, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            212, 
+            167, 
+            163, 
+            162, 
+            164, 
+            210, 
+            193
+        ], 
+        "name": "Hairy Tuna", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 194, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            213, 
+            168, 
+            163, 
+            162, 
+            200, 
+            158, 
+            209
+        ], 
+        "name": "Souvenir Shots", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 195, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            163, 
+            162, 
+            159, 
+            166, 
+            203
+        ], 
+        "name": "Andrew Walton", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 196, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            175, 
+            162, 
+            159, 
+            172, 
+            193
+        ], 
+        "name": "Sons of Pitches", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 197, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            160, 
+            172, 
+            161, 
+            205, 
+            159, 
+            155, 
+            190
+        ], 
+        "name": "Evil Empire", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 198, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            161, 
+            157, 
+            159, 
+            216, 
+            193
+        ], 
+        "name": "Nashville Jabronis", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 199, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            165, 
+            167, 
+            163, 
+            162, 
+            157, 
+            156, 
+            214
+        ], 
+        "name": "E.B.P.E", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 200, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            167, 
+            157, 
+            154, 
+            193, 
+            158, 
+            203
+        ], 
+        "name": "T & D Sluggers", 
+        "earnings": 0
+    }
+},
+{
+    "pk": 201, 
+    "model": "teams.team", 
+    "fields": {
+        "player": [
+            169, 
+            168, 
+            161, 
+            177, 
+            164, 
+            158, 
+            188
+        ], 
+        "name": "Grass Power", 
+        "earnings": 0
+    }
+}
+]
