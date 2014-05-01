@@ -1,0 +1,56 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Homerun Pool 2014</title>
+    <link rel="stylesheet" href='{% static "bootstrap-3.1.0-dist/dist/css/bootstrap.min.css" %}'>
+
+     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src='{% static "js/lib/jquery-1.10.2.min.js" %}'></script>
+    <script type="text/javascript" src='{% static "bootstrap-3.1.0-dist/dist/js/bootstrap.min.js" %}'></script>
+</head>
+<body style="padding-top: 50px;">
+	<div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-top">
+            		<span class="sr-only">Toggle navigation</span>
+            		<span class="icon-bar"></span>
+            		<span class="icon-bar"></span>
+            		<span class="icon-bar"></span>
+          		</button>
+          		<a class="navbar-brand" href="/">Homerun Pool 2014</a>
+          	</div>
+          	<div class="collapse navbar-collapse" id="navbar-top">
+				<ul class="nav navbar-nav">
+					<li class="dropdown">
+	   	            	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Months <b class="caret"></b></a>
+	                	<ul class="dropdown-menu">
+	                    	<li><a href="/April/">April</a></li>
+	                    	<li><a href="/May/">May</a></li>
+	                    	<li><a href="/June/">June</a></li>
+	                    	<li><a href="/July/">July</a></li>
+	                    	<li><a href="/August/">August</a></li>
+	                    	<li><a href="/September/">September</a></li>
+	                	</ul>
+	            	</li>
+					<li {% if active == 'season' %}class='active'{% endif %}><a href="/season/">Season</a></li>
+					<li {% if active == 'money' %}class='active'{% endif %}><a href="/money/">Money List</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		{% block content %}{% endblock %}
+	</div>
+</body>
+</html>

@@ -30,7 +30,10 @@ class Team(models.Model):
 
 	@property
 	def month_total(self):
-		return self.homerun_total - Team_Month.objects.filter(team=self).aggregate(Sum('value'))['value__sum']
+		try:
+			return self.homerun_total - TeamMonth.objects.filter(team=self).aggregate(Sum('value'))['value__sum']
+		except TypeError, e:
+			return self.homerun_total
 
 class TeamMonth(models.Model):
 	team = models.ForeignKey(Team)

@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% block content %}
-	<h2 class="text-center" style="margin-top: 10px;">{{ current_month }}</h2>
-	{% for team in month_teams %}
+	<h2 class="text-center" style="margin-top: 10px;">Money Leaders</h2>
+	{% for team in teams %}
 		{% if forloop.first or forloop.counter0|divisibleby:4 %}
 			<div>
 		{% endif %}
@@ -10,19 +10,13 @@
 				<thead>
 					<tr>
 						<th>{{ team.name }}</th>
-						<th>#</th>
+						<th>$</th>
 					</tr>
 				</thead>
 				<tbody>
-					{% for player in team.player.all %}
-						<tr>
-							<td>{{ player.name }}</td>
-							<td>{{ player.homerun }}</td>
-						</tr>
-					{% endfor %}
 					<tr>
-						<td>Total</td>
-						<td>{{ team.month_total }}</td>
+						<td>Amount</td>
+						<td>{{ team.earnings }}</td>
 					</tr>
 				</tbody>
 			</table>
