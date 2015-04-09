@@ -1,0 +1,2022 @@
+[
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 429665,
+        "name": "E. Encarnacion",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 150
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 430832,
+        "name": "J. Bautista",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 151
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 116662,
+        "name": "A. Jones",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 152
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 408234,
+        "name": "M. Cabrera",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 153
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 453064,
+        "name": "T. Tulowitzki",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 154
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 471865,
+        "name": "C. Gonzalez",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 155
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 545361,
+        "name": "M. Trout",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 156
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 518792,
+        "name": "J. Heyward",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 157
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 435263,
+        "name": "B. McCann",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 158
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 519317,
+        "name": "G. Stanton",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 159
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 501800,
+        "name": "A. Craig",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 160
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 519203,
+        "name": "A. Rizzo",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 161
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425902,
+        "name": "P. Fielder",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 162
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 547180,
+        "name": "B. Harper",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 163
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 457705,
+        "name": "A. McCutchen",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 164
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 434604,
+        "name": "M. Morse",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 165
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 571431,
+        "name": "M. Adams",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 166
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 405395,
+        "name": "A. Pujols",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 167
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 624577,
+        "name": "Y. Puig",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 168
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 571976,
+        "name": "W. Myers",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 169
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 443558,
+        "name": "N. Cruz",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 170
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 134181,
+        "name": "A. Beltre",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 171
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 458015,
+        "name": "J. Votto",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 172
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 460576,
+        "name": "C. Gomez",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 173
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 429666,
+        "name": "JJ Hardy",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 174
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 285078,
+        "name": "J. Hamilton",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 175
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 435041,
+        "name": "C. Quentin",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 176
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 136860,
+        "name": "C. Beltran",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 177
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 467055,
+        "name": "P. Sandoval",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 178
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 501647,
+        "name": "W. Rosario",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 179
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 456714,
+        "name": "B. Butler",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 180
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 435079,
+        "name": "I. Kinsler",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 181
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 457708,
+        "name": "J. Upton",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 182
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425545,
+        "name": "J. Willingham",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 183
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 431151,
+        "name": "D. Wright",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 184
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 467092,
+        "name": "W. Ramos",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 185
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425766,
+        "name": "J. Loney",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 186
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 430404,
+        "name": "J. Gomes",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 187
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 444432,
+        "name": "M. Trumbo",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 188
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 434670,
+        "name": "H. Ramirez",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 189
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 502126,
+        "name": "D. Brown",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 190
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 457763,
+        "name": "B. Posey",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 191
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 518692,
+        "name": "F. Freeman",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 192
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 457803,
+        "name": "J. Bruce",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 193
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 408252,
+        "name": "B. Phillips",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 194
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 543333,
+        "name": "E. Hosmer",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 195
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 452104,
+        "name": "C. Headley",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 196
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425664,
+        "name": "S. Victorino",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 197
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 576397,
+        "name": "J. Gyorko",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 198
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 430637,
+        "name": "K. Johnson",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 199
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 519025,
+        "name": "W. Middlebrooks",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 200
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 467793,
+        "name": "C. Santana",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 201
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 594828,
+        "name": "E. Gattis",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 202
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 502671,
+        "name": "P. Goldschmidt",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 203
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 542455,
+        "name": "O. Arcia",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 204
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 408047,
+        "name": "J. Morneau",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 205
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 458675,
+        "name": "C. Rasmus",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 206
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425783,
+        "name": "S. Soo Choo",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 207
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 453943,
+        "name": "T. Frazier",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 208
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 450317,
+        "name": "JP Arencibia",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 209
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 475582,
+        "name": "R. Zimmerman",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 210
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 407812,
+        "name": "M. Holliday",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 211
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 446263,
+        "name": "L. Duda",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 212
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 446334,
+        "name": "E. Longoria",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 213
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 476883,
+        "name": "P. Alvarez",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 214
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 120074,
+        "name": "D. Ortiz",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 216
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 493316,
+        "name": "Y. Cespedes",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 217
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 518626,
+        "name": "J. Donaldson",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 218
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 448801,
+        "name": "C. Davis",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 219
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 460075,
+        "name": "R. Braun",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 220
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 456665,
+        "name": "S. Pearce",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 221
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 543807,
+        "name": "G. Springer",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 222
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 429664,
+        "name": "R. Cano",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 223
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 571448,
+        "name": "N. Arenado",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 224
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 474832,
+        "name": "B. Belt",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 225
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 516782,
+        "name": "S. Marte",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 226
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 461235,
+        "name": "B. Moss",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 227
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 452254,
+        "name": "H. Pence",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 228
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 452234,
+        "name": "S. Smith",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 230
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 434540,
+        "name": "G. Jones",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 231
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 150029,
+        "name": "J. Werth",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 232
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 276519,
+        "name": "J. Rollins",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 233
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 407893,
+        "name": "M. Teixera",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 234
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 592518,
+        "name": "M. Machado",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 235
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 593428,
+        "name": "X. Bogaerts",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 236
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425783,
+        "name": "S. Soo-Choo",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 237
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 471083,
+        "name": "M. Montero",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 238
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 461314,
+        "name": "M. Kemp",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 239
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 572816,
+        "name": "C. Dickerson",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 240
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 434158,
+        "name": "C. Granderson",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 241
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 446308,
+        "name": "M. Wieters",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 242
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 445988,
+        "name": "M. Prado",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 243
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 502210,
+        "name": "J. Reddick",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 244
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 435063,
+        "name": "M. Napoli",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 245
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 543939,
+        "name": "K. Wong",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 246
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 547989,
+        "name": "J. Abreu",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 247
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 501981,
+        "name": "K. Davis",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 248
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 518595,
+        "name": "T. D'Arnaud",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 249
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425560,
+        "name": "A. LaRoche",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 250
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 572138,
+        "name": "J. Singleton",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 251
+},
+{
+    "fields": {
+        "player": [
+            163,
+            167,
+            188,
+            203,
+            219,
+            221,
+            222
+        ],
+        "name": "Let's Play 2",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 1
+},
+{
+    "fields": {
+        "player": [
+            163,
+            172,
+            173,
+            202,
+            203,
+            214,
+            222
+        ],
+        "name": "Down & Out",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 2
+},
+{
+    "fields": {
+        "player": [
+            161,
+            168,
+            178,
+            208,
+            217,
+            223,
+            225
+        ],
+        "name": "Another One Bites The Dust",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 3
+},
+{
+    "fields": {
+        "player": [
+            163,
+            168,
+            188,
+            202,
+            218,
+            219,
+            222
+        ],
+        "name": "Hot Dog Johnny",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 4
+},
+{
+    "fields": {
+        "player": [
+            154,
+            156,
+            168,
+            214,
+            220,
+            224,
+            226
+        ],
+        "name": "Monthly Donation 2",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 5
+},
+{
+    "fields": {
+        "player": [
+            159,
+            163,
+            188,
+            193,
+            203,
+            219,
+            223
+        ],
+        "name": "O's Before Hoes",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 6
+},
+{
+    "fields": {
+        "player": [
+            153,
+            163,
+            188,
+            203,
+            219,
+            220,
+            222
+        ],
+        "name": "NADS",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 7
+},
+{
+    "fields": {
+        "player": [
+            154,
+            161,
+            163,
+            168,
+            189,
+            219,
+            222
+        ],
+        "name": "Hitmen",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 8
+},
+{
+    "fields": {
+        "player": [
+            151,
+            177,
+            196,
+            208,
+            230,
+            234,
+            236
+        ],
+        "name": "Joeken",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 9
+},
+{
+    "fields": {
+        "player": [
+            211,
+            213,
+            216,
+            228,
+            231,
+            232,
+            237
+        ],
+        "name": "Jersey Joceys",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 10
+},
+{
+    "fields": {
+        "player": [
+            153,
+            159,
+            163,
+            178,
+            203,
+            223,
+            232
+        ],
+        "name": "Stennis",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 11
+},
+{
+    "fields": {
+        "player": [
+            156,
+            193,
+            222,
+            227,
+            233,
+            235,
+            238
+        ],
+        "name": "Team F.U.S.",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 12
+},
+{
+    "fields": {
+        "player": [
+            153,
+            154,
+            163,
+            188,
+            202,
+            219,
+            222
+        ],
+        "name": "My Clemente",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 13
+},
+{
+    "fields": {
+        "player": [
+            153,
+            159,
+            163,
+            188,
+            189,
+            203,
+            224
+        ],
+        "name": "Better Call Paul..Goldschmidt",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 14
+},
+{
+    "fields": {
+        "player": [
+            154,
+            156,
+            163,
+            188,
+            203,
+            220,
+            225
+        ],
+        "name": "Bilge Rat",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 15
+},
+{
+    "fields": {
+        "player": [
+            156,
+            166,
+            168,
+            189,
+            193,
+            220,
+            234
+        ],
+        "name": "Mazztradamus",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 16
+},
+{
+    "fields": {
+        "player": [
+            153,
+            163,
+            168,
+            218,
+            219,
+            220,
+            235
+        ],
+        "name": "Shy Wolf of Naples",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 17
+},
+{
+    "fields": {
+        "player": [
+            163,
+            168,
+            188,
+            202,
+            217,
+            219,
+            239
+        ],
+        "name": "Little Lebowski Urban Achievers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 18
+},
+{
+    "fields": {
+        "player": [
+            154,
+            156,
+            158,
+            182,
+            235,
+            241,
+            242
+        ],
+        "name": "MaxNilf",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 19
+},
+{
+    "fields": {
+        "player": [
+            156,
+            172,
+            178,
+            205,
+            223,
+            241,
+            243
+        ],
+        "name": "Morvay's Beard",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 20
+},
+{
+    "fields": {
+        "player": [
+            161,
+            163,
+            189,
+            224,
+            240,
+            241,
+            242
+        ],
+        "name": "Syphilitic Madness",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 21
+},
+{
+    "fields": {
+        "player": [
+            153,
+            159,
+            163,
+            188,
+            203,
+            220,
+            223
+        ],
+        "name": "High Rollers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 22
+},
+{
+    "fields": {
+        "player": [
+            152,
+            163,
+            188,
+            193,
+            203,
+            219,
+            222
+        ],
+        "name": "The No Necks",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 23
+},
+{
+    "fields": {
+        "player": [
+            159,
+            188,
+            203,
+            214,
+            220,
+            222,
+            223
+        ],
+        "name": "Blonde Bombers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 24
+},
+{
+    "fields": {
+        "player": [
+            154,
+            161,
+            168,
+            188,
+            218,
+            225,
+            245
+        ],
+        "name": "Dirty Birds",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 25
+},
+{
+    "fields": {
+        "player": [
+            153,
+            163,
+            188,
+            189,
+            223,
+            225,
+            239
+        ],
+        "name": "Underdogs",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 26
+},
+{
+    "fields": {
+        "player": [
+            159,
+            161,
+            163,
+            188,
+            203,
+            244,
+            246
+        ],
+        "name": "Staten Island Longshoreman",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 27
+},
+{
+    "fields": {
+        "player": [
+            153,
+            159,
+            163,
+            168,
+            203,
+            205,
+            223
+        ],
+        "name": "Brooklyn Bombers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 28
+},
+{
+    "fields": {
+        "player": [
+            153,
+            188,
+            193,
+            203,
+            214,
+            219,
+            222
+        ],
+        "name": "Kane's Crew",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 29
+},
+{
+    "fields": {
+        "player": [
+            152,
+            159,
+            163,
+            171,
+            177,
+            188,
+            189
+        ],
+        "name": "Caldwell Crusher",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 30
+},
+{
+    "fields": {
+        "player": [
+            151,
+            153,
+            163,
+            168,
+            188,
+            203,
+            220
+        ],
+        "name": "Jersey Drake",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 31
+},
+{
+    "fields": {
+        "player": [
+            188,
+            202,
+            203,
+            214,
+            219,
+            222,
+            248
+        ],
+        "name": "Holtsville Homers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 32
+},
+{
+    "fields": {
+        "player": [
+            153,
+            154,
+            188,
+            193,
+            202,
+            203,
+            220
+        ],
+        "name": "Nutley Numbnuts",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 33
+},
+{
+    "fields": {
+        "player": [
+            150,
+            153,
+            163,
+            193,
+            203,
+            222,
+            244
+        ],
+        "name": "Long Island Long Balls",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 34
+},
+{
+    "fields": {
+        "player": [
+            163,
+            188,
+            189,
+            193,
+            203,
+            247,
+            249
+        ],
+        "name": "Bruno's Beasts",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 35
+},
+{
+    "fields": {
+        "player": [
+            153,
+            163,
+            188,
+            202,
+            203,
+            219,
+            222
+        ],
+        "name": "Monthly Donation",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 36
+},
+{
+    "fields": {
+        "player": [
+            153,
+            188,
+            193,
+            196,
+            203,
+            222,
+            224
+        ],
+        "name": "Nashville Jabronis",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 37
+},
+{
+    "fields": {
+        "player": [
+            153,
+            163,
+            188,
+            202,
+            203,
+            219,
+            222
+        ],
+        "name": "Bounty Hunters",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 38
+},
+{
+    "fields": {
+        "player": [
+            153,
+            154,
+            188,
+            203,
+            219,
+            220,
+            245
+        ],
+        "name": "Baby Bev's Baskers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 39
+},
+{
+    "fields": {
+        "player": [
+            153,
+            159,
+            163,
+            188,
+            189,
+            203,
+            222
+        ],
+        "name": "Sports Pope",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 40
+},
+{
+    "fields": {
+        "player": [
+            151,
+            154,
+            163,
+            188,
+            203,
+            220,
+            222
+        ],
+        "name": "Suburban Commando",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 41
+},
+{
+    "fields": {
+        "player": [
+            153,
+            188,
+            193,
+            203,
+            214,
+            219,
+            222
+        ],
+        "name": "Purple Haze",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 42
+},
+{
+    "fields": {
+        "player": [
+            163,
+            173,
+            178,
+            188,
+            217,
+            245,
+            247
+        ],
+        "name": "CYAHLATAH",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 43
+},
+{
+    "fields": {
+        "player": [
+            153,
+            161,
+            163,
+            168,
+            203,
+            222,
+            225
+        ],
+        "name": "Duderino",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 44
+},
+{
+    "fields": {
+        "player": [
+            163,
+            168,
+            188,
+            212,
+            217,
+            219,
+            222
+        ],
+        "name": "Ass to McClouth",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 45
+},
+{
+    "fields": {
+        "player": [
+            153,
+            177,
+            213,
+            219,
+            220,
+            223,
+            241
+        ],
+        "name": "Nowaks Sluggers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 46
+},
+{
+    "fields": {
+        "player": [
+            150,
+            163,
+            188,
+            203,
+            222,
+            223,
+            250
+        ],
+        "name": "Team Soto",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 47
+},
+{
+    "fields": {
+        "player": [
+            150,
+            154,
+            166,
+            168,
+            192,
+            241,
+            245
+        ],
+        "name": "Back Back Gone",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 48
+},
+{
+    "fields": {
+        "player": [
+            153,
+            163,
+            188,
+            189,
+            203,
+            222,
+            247
+        ],
+        "name": "San Man",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 49
+},
+{
+    "fields": {
+        "player": [
+            156,
+            163,
+            164,
+            171,
+            188,
+            203,
+            223
+        ],
+        "name": "Savanna Club",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 50
+},
+{
+    "fields": {
+        "player": [
+            163,
+            164,
+            168,
+            173,
+            203,
+            217,
+            222
+        ],
+        "name": "Joe Buck Yourself",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 51
+},
+{
+    "fields": {
+        "player": [
+            188,
+            193,
+            202,
+            203,
+            214,
+            219,
+            222
+        ],
+        "name": "Rusty Trumbo",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 52
+},
+{
+    "fields": {
+        "player": [
+            159,
+            163,
+            168,
+            188,
+            203,
+            217,
+            224
+        ],
+        "name": "Podiatribe",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 53
+},
+{
+    "fields": {
+        "player": [
+            161,
+            192,
+            202,
+            203,
+            225,
+            227,
+            251
+        ],
+        "name": "Evil Empire",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 54
+},
+{
+    "fields": {
+        "player": [
+            163,
+            188,
+            203,
+            218,
+            219,
+            222,
+            241
+        ],
+        "name": "OTW",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 55
+},
+{
+    "fields": {
+        "player": [
+            156,
+            163,
+            188,
+            203,
+            214,
+            219,
+            225
+        ],
+        "name": "86 Mets",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 56
+},
+{
+    "fields": {
+        "player": [
+            154,
+            156,
+            168,
+            172,
+            196,
+            223,
+            228
+        ],
+        "name": "Midway Express",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 57
+},
+{
+    "fields": {
+        "player": [
+            150,
+            161,
+            163,
+            168,
+            188,
+            225,
+            241
+        ],
+        "name": "Grass Power",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 58
+},
+{
+    "fields": {
+        "player": [
+            156,
+            163,
+            182,
+            188,
+            203,
+            208,
+            214
+        ],
+        "name": "T & D Sluggers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 59
+},
+{
+    "fields": {
+        "player": [
+            163,
+            171,
+            172,
+            182,
+            219,
+            239,
+            241
+        ],
+        "name": "SUDDDS",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 60
+}
+]

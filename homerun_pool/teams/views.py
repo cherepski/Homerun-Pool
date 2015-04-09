@@ -8,7 +8,7 @@ from .models import Team, TeamMonth
 
 class Home(View):
     def get(self, request):
-	month_teams = sorted(Team.objects.all(), key=lambda a: a.month_total, reverse=True)
+	month_teams = sorted(Team.objects.prefetch_related('player').all(), key=lambda a: a.month_total, reverse=True)
 	return render(request, 'index.html', {
 		'month_teams': month_teams,
 		'current_month': calendar.month_name[datetime.datetime.today().month]
@@ -16,7 +16,7 @@ class Home(View):
 
 class Season(View):
     def get(self, request):
-        teams = sorted(Team.objects.all(), key=lambda a: a.homerun_total, reverse=True)
+        teams = sorted(Team.objects.prefetch_related('player').all(), key=lambda a: a.homerun_total, reverse=True)
 	return render(request, 'season.html', {'teams': teams, 'active': 'season'})
 
 class Money(View):

@@ -7,7 +7,7 @@ class Command(BaseCommand):
 		with open('teams/management/commands/team_load.csv', 'rb') as f:
 			reader = csv.reader(f)
 			Team.objects.all().delete()
-			Player.objects.all().delete()
+			#Player.objects.all().delete()
                         TeamMonth.objects.all().delete()
 			team_list = []
 			for index, row in enumerate(reader):

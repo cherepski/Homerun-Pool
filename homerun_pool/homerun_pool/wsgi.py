@@ -1,21 +1,14 @@
-import os, sys, site
+"""
+WSGI config for homerun_pool project.
 
-workspace = os.path.abspath('%s/../../..' % os.path.dirname(__file__))
+It exposes the WSGI callable as a module-level variable named ``application``.
 
-# Add the site-packages of the chosen virtualenv to work with
-site.addsitedir('%s/.env/lib/python2.6/site-packages' % workspace)
+For more information on this file, see
+https://docs.djangoproject.com/en/1.6/howto/deployment/wsgi/
+"""
 
-# Add the app's directory to the PYTHONPATH
-sys.path.append('%s/homerun-pool/homerun_pool' % workspace)
+import os
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "homerun_pool.homerun_pool.settings")
 
-# Activate your virtual env
-activate_env=os.path.expanduser("%s/.env/bin/activate_this.py" % workspace)
-execfile(activate_env, dict(__file__=activate_env))
-
-import django.core.handlers.wsgi
-_application = django.core.handlers.wsgi.WSGIHandler()
-
-def application(environ, start_response):
-    os.environ['DJANGO_SETTINGS_MODULE'] = 'homerun_pool.settings'
-
-    return _application(environ, start_response)
+from django.core.wsgi import get_wsgi_application
+application = get_wsgi_application()

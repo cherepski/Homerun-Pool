@@ -36,17 +36,18 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'south',
     'teams',
 )
 
 MIDDLEWARE_CLASSES = (
+    'django.middleware.cache.UpdateCacheMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'django.middleware.cache.FetchFromCacheMiddleware',
 )
 
 ROOT_URLCONF = 'homerun_pool.urls'
@@ -63,7 +64,7 @@ DATABASES = {
         'NAME': 'homerun_pool',
         'USER': 'homerun',
         'PASSWORD': 'rxDBbJzpkjjFP8Y',
-        'HOST': '127.0.0.1',
+        'HOST': 'micro-db.cfbytnoyxxqy.us-east-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
@@ -87,3 +88,14 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, "static")
+
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
+        'LOCATION': '127.0.0.1:11211',
+    }
+}
+
+CACHE_MIDDLEWARE_ALIAS = 'default'
+CACHE_MIDDLEWARE_SECONDS = 7200
+CACHE_MIDDLEWARE_KEY_PREFIX = ''
