@@ -1,9 +1,10 @@
+import datetime
 from django.db import models
 from django.db.models import Sum
 
 # Create your models here.
 
-MONTH_CHOICES=(('April', 'April'), ('May', 'May'), ('June', 'June'), ('July', 'July'), ('August', 'August'), ('September', 'September'), ('October', 'October'))
+MONTH_CHOICES=(('April', 'April'), ('May', 'May'), ('June', 'June'), ('July', 'July'), ('August', 'August'), ('September', 'September'))
 
 class Player(models.Model):
 	name = models.CharField(max_length=255, unique=True)
@@ -30,6 +31,8 @@ class Team(models.Model):
 
 	@property
 	def month_total(self):
+                if datetime.datetime.now().month == 10:
+			return self.homerun_total - TeamMonth.objects.filter(team=self).exclude(key__iexact="September").aggregate(Sum('value'))['value__sum']
 		try:
 			return self.homerun_total - TeamMonth.objects.filter(team=self).aggregate(Sum('value'))['value__sum']
 		except TypeError, e:

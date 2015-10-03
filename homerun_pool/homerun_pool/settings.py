@@ -64,7 +64,7 @@ DATABASES = {
         'NAME': 'homerun_pool',
         'USER': 'homerun',
         'PASSWORD': 'rxDBbJzpkjjFP8Y',
-        'HOST': 'micro-db.cfbytnoyxxqy.us-east-1.rds.amazonaws.com',
+        'HOST': '127.0.0.1',
         'PORT': '5432',
     }
 }
