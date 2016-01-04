@@ -1,0 +1,8063 @@
+[
+{
+    "fields": {
+        "model": "logentry",
+        "app_label": "admin"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 1
+},
+{
+    "fields": {
+        "model": "permission",
+        "app_label": "auth"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 2
+},
+{
+    "fields": {
+        "model": "group",
+        "app_label": "auth"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 3
+},
+{
+    "fields": {
+        "model": "user",
+        "app_label": "auth"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 4
+},
+{
+    "fields": {
+        "model": "contenttype",
+        "app_label": "contenttypes"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 5
+},
+{
+    "fields": {
+        "model": "session",
+        "app_label": "sessions"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 6
+},
+{
+    "fields": {
+        "model": "player",
+        "app_label": "teams"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 7
+},
+{
+    "fields": {
+        "model": "team",
+        "app_label": "teams"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 8
+},
+{
+    "fields": {
+        "model": "teammonth",
+        "app_label": "teams"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 9
+},
+{
+    "fields": {
+        "expire_date": "2015-10-17T01:45:29.749Z",
+        "session_data": "NmZlNGQwN2VkNjVjZTJlNzdhNTM3NDMwMmY3ZjM1MzlhNmVmMGQwYjp7Il9hdXRoX3VzZXJfaGFzaCI6Ijg1ZGY1ZDViMjc4YjY2NjY3Y2IyMTQ2ZjdjODRhMzE1NmUyY2E1MjUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0="
+    },
+    "model": "sessions.session",
+    "pk": "1pf16y52am5i057yzzd6eu9beauw8797"
+},
+{
+    "fields": {
+        "expire_date": "2015-04-27T00:01:48.600Z",
+        "session_data": "NmZlNGQwN2VkNjVjZTJlNzdhNTM3NDMwMmY3ZjM1MzlhNmVmMGQwYjp7Il9hdXRoX3VzZXJfaGFzaCI6Ijg1ZGY1ZDViMjc4YjY2NjY3Y2IyMTQ2ZjdjODRhMzE1NmUyY2E1MjUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0="
+    },
+    "model": "sessions.session",
+    "pk": "23xu3rc9zzunf756evnm40lvt6oq6lwh"
+},
+{
+    "fields": {
+        "expire_date": "2015-06-03T02:49:08.399Z",
+        "session_data": "NmZlNGQwN2VkNjVjZTJlNzdhNTM3NDMwMmY3ZjM1MzlhNmVmMGQwYjp7Il9hdXRoX3VzZXJfaGFzaCI6Ijg1ZGY1ZDViMjc4YjY2NjY3Y2IyMTQ2ZjdjODRhMzE1NmUyY2E1MjUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0="
+    },
+    "model": "sessions.session",
+    "pk": "2usky9hotu1ui6z76du9sczbsuga1j9z"
+},
+{
+    "fields": {
+        "expire_date": "2015-07-20T22:59:06.772Z",
+        "session_data": "NmZlNGQwN2VkNjVjZTJlNzdhNTM3NDMwMmY3ZjM1MzlhNmVmMGQwYjp7Il9hdXRoX3VzZXJfaGFzaCI6Ijg1ZGY1ZDViMjc4YjY2NjY3Y2IyMTQ2ZjdjODRhMzE1NmUyY2E1MjUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0="
+    },
+    "model": "sessions.session",
+    "pk": "2wouds1istobvkfygrw7lz559x9v2p5c"
+},
+{
+    "fields": {
+        "expire_date": "2015-06-19T03:18:01.145Z",
+        "session_data": "NmZlNGQwN2VkNjVjZTJlNzdhNTM3NDMwMmY3ZjM1MzlhNmVmMGQwYjp7Il9hdXRoX3VzZXJfaGFzaCI6Ijg1ZGY1ZDViMjc4YjY2NjY3Y2IyMTQ2ZjdjODRhMzE1NmUyY2E1MjUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0="
+    },
+    "model": "sessions.session",
+    "pk": "uqwnan5iak4rwv10tf6f806vq1l5mxlp"
+},
+{
+    "fields": {
+        "expire_date": "2015-04-22T23:05:47.952Z",
+        "session_data": "NmZlNGQwN2VkNjVjZTJlNzdhNTM3NDMwMmY3ZjM1MzlhNmVmMGQwYjp7Il9hdXRoX3VzZXJfaGFzaCI6Ijg1ZGY1ZDViMjc4YjY2NjY3Y2IyMTQ2ZjdjODRhMzE1NmUyY2E1MjUiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0="
+    },
+    "model": "sessions.session",
+    "pk": "zf7l9l67cozdne58onvpmxthyx2cd2sj"
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 429665,
+        "name": "E. Encarnacion",
+        "homerun": 39
+    },
+    "model": "teams.player",
+    "pk": 150
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 430832,
+        "name": "J. Bautista",
+        "homerun": 40
+    },
+    "model": "teams.player",
+    "pk": 151
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 430945,
+        "name": "A. Jones",
+        "homerun": 27
+    },
+    "model": "teams.player",
+    "pk": 152
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 408234,
+        "name": "M. Cabrera",
+        "homerun": 18
+    },
+    "model": "teams.player",
+    "pk": 153
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 453064,
+        "name": "T. Tulowitzki",
+        "homerun": 17
+    },
+    "model": "teams.player",
+    "pk": 154
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 471865,
+        "name": "C. Gonzalez",
+        "homerun": 40
+    },
+    "model": "teams.player",
+    "pk": 155
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 545361,
+        "name": "M. Trout",
+        "homerun": 41
+    },
+    "model": "teams.player",
+    "pk": 156
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 518792,
+        "name": "J. Heyward",
+        "homerun": 13
+    },
+    "model": "teams.player",
+    "pk": 157
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 435263,
+        "name": "B. McCann",
+        "homerun": 26
+    },
+    "model": "teams.player",
+    "pk": 158
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 519317,
+        "name": "G. Stanton",
+        "homerun": 27
+    },
+    "model": "teams.player",
+    "pk": 159
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 501800,
+        "name": "A. Craig",
+        "homerun": 1
+    },
+    "model": "teams.player",
+    "pk": 160
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 519203,
+        "name": "A. Rizzo",
+        "homerun": 31
+    },
+    "model": "teams.player",
+    "pk": 161
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425902,
+        "name": "P. Fielder",
+        "homerun": 23
+    },
+    "model": "teams.player",
+    "pk": 162
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 547180,
+        "name": "B. Harper",
+        "homerun": 42
+    },
+    "model": "teams.player",
+    "pk": 163
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 457705,
+        "name": "A. McCutchen",
+        "homerun": 23
+    },
+    "model": "teams.player",
+    "pk": 164
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 434604,
+        "name": "M. Morse",
+        "homerun": 5
+    },
+    "model": "teams.player",
+    "pk": 165
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 571431,
+        "name": "M. Adams",
+        "homerun": 5
+    },
+    "model": "teams.player",
+    "pk": 166
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 405395,
+        "name": "A. Pujols",
+        "homerun": 40
+    },
+    "model": "teams.player",
+    "pk": 167
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 624577,
+        "name": "Y. Puig",
+        "homerun": 11
+    },
+    "model": "teams.player",
+    "pk": 168
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 571976,
+        "name": "W. Myers",
+        "homerun": 8
+    },
+    "model": "teams.player",
+    "pk": 169
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 443558,
+        "name": "N. Cruz",
+        "homerun": 44
+    },
+    "model": "teams.player",
+    "pk": 170
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 134181,
+        "name": "A. Beltre",
+        "homerun": 18
+    },
+    "model": "teams.player",
+    "pk": 171
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 458015,
+        "name": "J. Votto",
+        "homerun": 29
+    },
+    "model": "teams.player",
+    "pk": 172
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 460576,
+        "name": "C. Gomez",
+        "homerun": 12
+    },
+    "model": "teams.player",
+    "pk": 173
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 429666,
+        "name": "JJ Hardy",
+        "homerun": 8
+    },
+    "model": "teams.player",
+    "pk": 174
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 285078,
+        "name": "J. Hamilton",
+        "homerun": 8
+    },
+    "model": "teams.player",
+    "pk": 175
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 435041,
+        "name": "C. Quentin",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 176
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 136860,
+        "name": "C. Beltran",
+        "homerun": 19
+    },
+    "model": "teams.player",
+    "pk": 177
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 467055,
+        "name": "P. Sandoval",
+        "homerun": 10
+    },
+    "model": "teams.player",
+    "pk": 178
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 501647,
+        "name": "W. Rosario",
+        "homerun": 6
+    },
+    "model": "teams.player",
+    "pk": 179
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 456714,
+        "name": "B. Butler",
+        "homerun": 15
+    },
+    "model": "teams.player",
+    "pk": 180
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 435079,
+        "name": "I. Kinsler",
+        "homerun": 11
+    },
+    "model": "teams.player",
+    "pk": 181
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 457708,
+        "name": "J. Upton",
+        "homerun": 26
+    },
+    "model": "teams.player",
+    "pk": 182
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425545,
+        "name": "J. Willingham",
+        "homerun": 0
+    },
+    "model": "teams.player",
+    "pk": 183
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 431151,
+        "name": "D. Wright",
+        "homerun": 5
+    },
+    "model": "teams.player",
+    "pk": 184
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 467092,
+        "name": "W. Ramos",
+        "homerun": 15
+    },
+    "model": "teams.player",
+    "pk": 185
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425766,
+        "name": "J. Loney",
+        "homerun": 4
+    },
+    "model": "teams.player",
+    "pk": 186
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 430404,
+        "name": "J. Gomes",
+        "homerun": 7
+    },
+    "model": "teams.player",
+    "pk": 187
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 444432,
+        "name": "M. Trumbo",
+        "homerun": 22
+    },
+    "model": "teams.player",
+    "pk": 188
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 434670,
+        "name": "H. Ramirez",
+        "homerun": 19
+    },
+    "model": "teams.player",
+    "pk": 189
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 502126,
+        "name": "D. Brown",
+        "homerun": 5
+    },
+    "model": "teams.player",
+    "pk": 190
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 457763,
+        "name": "B. Posey",
+        "homerun": 19
+    },
+    "model": "teams.player",
+    "pk": 191
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 518692,
+        "name": "F. Freeman",
+        "homerun": 18
+    },
+    "model": "teams.player",
+    "pk": 192
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 457803,
+        "name": "J. Bruce",
+        "homerun": 26
+    },
+    "model": "teams.player",
+    "pk": 193
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 408252,
+        "name": "B. Phillips",
+        "homerun": 12
+    },
+    "model": "teams.player",
+    "pk": 194
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 543333,
+        "name": "E. Hosmer",
+        "homerun": 18
+    },
+    "model": "teams.player",
+    "pk": 195
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 452104,
+        "name": "C. Headley",
+        "homerun": 11
+    },
+    "model": "teams.player",
+    "pk": 196
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425664,
+        "name": "S. Victorino",
+        "homerun": 1
+    },
+    "model": "teams.player",
+    "pk": 197
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 576397,
+        "name": "J. Gyorko",
+        "homerun": 16
+    },
+    "model": "teams.player",
+    "pk": 198
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 430637,
+        "name": "K. Johnson",
+        "homerun": 14
+    },
+    "model": "teams.player",
+    "pk": 199
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 519025,
+        "name": "W. Middlebrooks",
+        "homerun": 9
+    },
+    "model": "teams.player",
+    "pk": 200
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 467793,
+        "name": "C. Santana",
+        "homerun": 19
+    },
+    "model": "teams.player",
+    "pk": 201
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 594828,
+        "name": "E. Gattis",
+        "homerun": 27
+    },
+    "model": "teams.player",
+    "pk": 202
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 502671,
+        "name": "P. Goldschmidt",
+        "homerun": 33
+    },
+    "model": "teams.player",
+    "pk": 203
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 542455,
+        "name": "O. Arcia",
+        "homerun": 2
+    },
+    "model": "teams.player",
+    "pk": 204
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 408047,
+        "name": "J. Morneau",
+        "homerun": 3
+    },
+    "model": "teams.player",
+    "pk": 205
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 458675,
+        "name": "C. Rasmus",
+        "homerun": 25
+    },
+    "model": "teams.player",
+    "pk": 206
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425783,
+        "name": "S. Soo Choo",
+        "homerun": 22
+    },
+    "model": "teams.player",
+    "pk": 207
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 453943,
+        "name": "T. Frazier",
+        "homerun": 35
+    },
+    "model": "teams.player",
+    "pk": 208
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 450317,
+        "name": "JP Arencibia",
+        "homerun": 6
+    },
+    "model": "teams.player",
+    "pk": 209
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 475582,
+        "name": "R. Zimmerman",
+        "homerun": 16
+    },
+    "model": "teams.player",
+    "pk": 210
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 407812,
+        "name": "M. Holliday",
+        "homerun": 4
+    },
+    "model": "teams.player",
+    "pk": 211
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 446263,
+        "name": "L. Duda",
+        "homerun": 27
+    },
+    "model": "teams.player",
+    "pk": 212
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 446334,
+        "name": "E. Longoria",
+        "homerun": 21
+    },
+    "model": "teams.player",
+    "pk": 213
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 476883,
+        "name": "P. Alvarez",
+        "homerun": 27
+    },
+    "model": "teams.player",
+    "pk": 214
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 120074,
+        "name": "D. Ortiz",
+        "homerun": 37
+    },
+    "model": "teams.player",
+    "pk": 216
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 493316,
+        "name": "Y. Cespedes",
+        "homerun": 35
+    },
+    "model": "teams.player",
+    "pk": 217
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 518626,
+        "name": "J. Donaldson",
+        "homerun": 41
+    },
+    "model": "teams.player",
+    "pk": 218
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 448801,
+        "name": "C. Davis",
+        "homerun": 47
+    },
+    "model": "teams.player",
+    "pk": 219
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 460075,
+        "name": "R. Braun",
+        "homerun": 25
+    },
+    "model": "teams.player",
+    "pk": 220
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 456665,
+        "name": "S. Pearce",
+        "homerun": 15
+    },
+    "model": "teams.player",
+    "pk": 221
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 543807,
+        "name": "G. Springer",
+        "homerun": 16
+    },
+    "model": "teams.player",
+    "pk": 222
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 429664,
+        "name": "R. Cano",
+        "homerun": 21
+    },
+    "model": "teams.player",
+    "pk": 223
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 571448,
+        "name": "N. Arenado",
+        "homerun": 42
+    },
+    "model": "teams.player",
+    "pk": 224
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 474832,
+        "name": "B. Belt",
+        "homerun": 18
+    },
+    "model": "teams.player",
+    "pk": 225
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 516782,
+        "name": "S. Marte",
+        "homerun": 19
+    },
+    "model": "teams.player",
+    "pk": 226
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 461235,
+        "name": "B. Moss",
+        "homerun": 19
+    },
+    "model": "teams.player",
+    "pk": 227
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 452254,
+        "name": "H. Pence",
+        "homerun": 9
+    },
+    "model": "teams.player",
+    "pk": 228
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 452234,
+        "name": "S. Smith",
+        "homerun": 12
+    },
+    "model": "teams.player",
+    "pk": 230
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 434540,
+        "name": "G. Jones",
+        "homerun": 5
+    },
+    "model": "teams.player",
+    "pk": 231
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 150029,
+        "name": "J. Werth",
+        "homerun": 12
+    },
+    "model": "teams.player",
+    "pk": 232
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 276519,
+        "name": "J. Rollins",
+        "homerun": 13
+    },
+    "model": "teams.player",
+    "pk": 233
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 407893,
+        "name": "M. Teixera",
+        "homerun": 31
+    },
+    "model": "teams.player",
+    "pk": 234
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 592518,
+        "name": "M. Machado",
+        "homerun": 35
+    },
+    "model": "teams.player",
+    "pk": 235
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 593428,
+        "name": "X. Bogaerts",
+        "homerun": 7
+    },
+    "model": "teams.player",
+    "pk": 236
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425783,
+        "name": "S. Soo-Choo",
+        "homerun": 22
+    },
+    "model": "teams.player",
+    "pk": 237
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 471083,
+        "name": "M. Montero",
+        "homerun": 15
+    },
+    "model": "teams.player",
+    "pk": 238
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 461314,
+        "name": "M. Kemp",
+        "homerun": 23
+    },
+    "model": "teams.player",
+    "pk": 239
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 572816,
+        "name": "C. Dickerson",
+        "homerun": 10
+    },
+    "model": "teams.player",
+    "pk": 240
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 434158,
+        "name": "C. Granderson",
+        "homerun": 26
+    },
+    "model": "teams.player",
+    "pk": 241
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 446308,
+        "name": "M. Wieters",
+        "homerun": 8
+    },
+    "model": "teams.player",
+    "pk": 242
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 445988,
+        "name": "M. Prado",
+        "homerun": 9
+    },
+    "model": "teams.player",
+    "pk": 243
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 502210,
+        "name": "J. Reddick",
+        "homerun": 20
+    },
+    "model": "teams.player",
+    "pk": 244
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 435063,
+        "name": "M. Napoli",
+        "homerun": 18
+    },
+    "model": "teams.player",
+    "pk": 245
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 543939,
+        "name": "K. Wong",
+        "homerun": 11
+    },
+    "model": "teams.player",
+    "pk": 246
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 547989,
+        "name": "J. Abreu",
+        "homerun": 30
+    },
+    "model": "teams.player",
+    "pk": 247
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 501981,
+        "name": "K. Davis",
+        "homerun": 27
+    },
+    "model": "teams.player",
+    "pk": 248
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 518595,
+        "name": "T. D'Arnaud",
+        "homerun": 12
+    },
+    "model": "teams.player",
+    "pk": 249
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 425560,
+        "name": "A. LaRoche",
+        "homerun": 12
+    },
+    "model": "teams.player",
+    "pk": 250
+},
+{
+    "fields": {
+        "hot": 0,
+        "mlb_id": 572138,
+        "name": "J. Singleton",
+        "homerun": 1
+    },
+    "model": "teams.player",
+    "pk": 251
+},
+{
+    "fields": {
+        "player": [
+            219,
+            221,
+            222,
+            203,
+            167,
+            188,
+            163
+        ],
+        "name": "Let's Play 2",
+        "earnings": 4
+    },
+    "model": "teams.team",
+    "pk": 1
+},
+{
+    "fields": {
+        "player": [
+            173,
+            214,
+            172,
+            222,
+            203,
+            202,
+            163
+        ],
+        "name": "Down & Out",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 2
+},
+{
+    "fields": {
+        "player": [
+            223,
+            178,
+            225,
+            161,
+            168,
+            208,
+            217
+        ],
+        "name": "Another One Bites The Dust",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 3
+},
+{
+    "fields": {
+        "player": [
+            219,
+            222,
+            168,
+            188,
+            202,
+            163,
+            218
+        ],
+        "name": "Hot Dog Johnny",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 4
+},
+{
+    "fields": {
+        "player": [
+            224,
+            214,
+            220,
+            156,
+            168,
+            226,
+            154
+        ],
+        "name": "Monthly Donation 2",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 5
+},
+{
+    "fields": {
+        "player": [
+            219,
+            159,
+            223,
+            193,
+            203,
+            188,
+            163
+        ],
+        "name": "O's Before Hoes",
+        "earnings": 4
+    },
+    "model": "teams.team",
+    "pk": 6
+},
+{
+    "fields": {
+        "player": [
+            219,
+            222,
+            220,
+            153,
+            203,
+            188,
+            163
+        ],
+        "name": "NADS",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 7
+},
+{
+    "fields": {
+        "player": [
+            219,
+            189,
+            222,
+            161,
+            168,
+            154,
+            163
+        ],
+        "name": "Hitmen",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 8
+},
+{
+    "fields": {
+        "player": [
+            177,
+            236,
+            230,
+            234,
+            151,
+            196,
+            208
+        ],
+        "name": "Joeken",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 9
+},
+{
+    "fields": {
+        "player": [
+            216,
+            237,
+            232,
+            211,
+            231,
+            213,
+            228
+        ],
+        "name": "Jersey Joceys",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 10
+},
+{
+    "fields": {
+        "player": [
+            159,
+            223,
+            178,
+            232,
+            153,
+            203,
+            163
+        ],
+        "name": "Stennis",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 11
+},
+{
+    "fields": {
+        "player": [
+            222,
+            193,
+            235,
+            156,
+            227,
+            238,
+            233
+        ],
+        "name": "Team F.U.S.",
+        "earnings": 4
+    },
+    "model": "teams.team",
+    "pk": 12
+},
+{
+    "fields": {
+        "player": [
+            219,
+            222,
+            153,
+            154,
+            188,
+            202,
+            163
+        ],
+        "name": "My Clemente",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 13
+},
+{
+    "fields": {
+        "player": [
+            189,
+            224,
+            159,
+            153,
+            203,
+            188,
+            163
+        ],
+        "name": "Better Call Paul..Goldschmidt",
+        "earnings": 199
+    },
+    "model": "teams.team",
+    "pk": 14
+},
+{
+    "fields": {
+        "player": [
+            225,
+            220,
+            203,
+            156,
+            154,
+            188,
+            163
+        ],
+        "name": "Bilge Rat",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 15
+},
+{
+    "fields": {
+        "player": [
+            189,
+            234,
+            193,
+            220,
+            156,
+            168,
+            166
+        ],
+        "name": "Mazztradamus",
+        "earnings": 150
+    },
+    "model": "teams.team",
+    "pk": 16
+},
+{
+    "fields": {
+        "player": [
+            219,
+            220,
+            153,
+            235,
+            168,
+            163,
+            218
+        ],
+        "name": "Shy Wolf of Naples",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 17
+},
+{
+    "fields": {
+        "player": [
+            219,
+            168,
+            239,
+            188,
+            202,
+            163,
+            217
+        ],
+        "name": "Little Lebowski Urban Achievers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 18
+},
+{
+    "fields": {
+        "player": [
+            182,
+            158,
+            235,
+            156,
+            241,
+            242,
+            154
+        ],
+        "name": "MaxNilf",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 19
+},
+{
+    "fields": {
+        "player": [
+            243,
+            223,
+            172,
+            178,
+            205,
+            156,
+            241
+        ],
+        "name": "Morvay's Beard",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 20
+},
+{
+    "fields": {
+        "player": [
+            189,
+            224,
+            240,
+            161,
+            241,
+            242,
+            163
+        ],
+        "name": "Syphilitic Madness",
+        "earnings": 4
+    },
+    "model": "teams.team",
+    "pk": 21
+},
+{
+    "fields": {
+        "player": [
+            159,
+            223,
+            220,
+            153,
+            203,
+            188,
+            163
+        ],
+        "name": "High Rollers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 22
+},
+{
+    "fields": {
+        "player": [
+            219,
+            152,
+            222,
+            193,
+            203,
+            188,
+            163
+        ],
+        "name": "The No Necks",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 23
+},
+{
+    "fields": {
+        "player": [
+            159,
+            223,
+            214,
+            222,
+            220,
+            203,
+            188
+        ],
+        "name": "Blonde Bombers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 24
+},
+{
+    "fields": {
+        "player": [
+            225,
+            161,
+            168,
+            154,
+            245,
+            188,
+            218
+        ],
+        "name": "Dirty Birds",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 25
+},
+{
+    "fields": {
+        "player": [
+            189,
+            223,
+            225,
+            153,
+            239,
+            188,
+            163
+        ],
+        "name": "Underdogs",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 26
+},
+{
+    "fields": {
+        "player": [
+            246,
+            244,
+            159,
+            161,
+            203,
+            188,
+            163
+        ],
+        "name": "Staten Island Longshoreman",
+        "earnings": 16
+    },
+    "model": "teams.team",
+    "pk": 27
+},
+{
+    "fields": {
+        "player": [
+            159,
+            223,
+            153,
+            205,
+            203,
+            168,
+            163
+        ],
+        "name": "Brooklyn Bombers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 28
+},
+{
+    "fields": {
+        "player": [
+            219,
+            214,
+            222,
+            193,
+            153,
+            203,
+            188
+        ],
+        "name": "Kane's Crew",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 29
+},
+{
+    "fields": {
+        "player": [
+            177,
+            189,
+            171,
+            152,
+            159,
+            188,
+            163
+        ],
+        "name": "Caldwell Crusher",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 30
+},
+{
+    "fields": {
+        "player": [
+            151,
+            220,
+            153,
+            203,
+            168,
+            188,
+            163
+        ],
+        "name": "Jersey Drake",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 31
+},
+{
+    "fields": {
+        "player": [
+            219,
+            214,
+            222,
+            248,
+            203,
+            188,
+            202
+        ],
+        "name": "Holtsville Homers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 32
+},
+{
+    "fields": {
+        "player": [
+            193,
+            220,
+            153,
+            203,
+            154,
+            188,
+            202
+        ],
+        "name": "Nutley Numbnuts",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 33
+},
+{
+    "fields": {
+        "player": [
+            244,
+            222,
+            193,
+            153,
+            203,
+            150,
+            163
+        ],
+        "name": "Long Island Long Balls",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 34
+},
+{
+    "fields": {
+        "player": [
+            189,
+            193,
+            203,
+            249,
+            247,
+            188,
+            163
+        ],
+        "name": "Bruno's Beasts",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 35
+},
+{
+    "fields": {
+        "player": [
+            219,
+            222,
+            153,
+            203,
+            188,
+            202,
+            163
+        ],
+        "name": "Monthly Donation",
+        "earnings": 12
+    },
+    "model": "teams.team",
+    "pk": 36
+},
+{
+    "fields": {
+        "player": [
+            224,
+            222,
+            193,
+            153,
+            203,
+            188,
+            196
+        ],
+        "name": "Nashville Jabronis",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 37
+},
+{
+    "fields": {
+        "player": [
+            219,
+            222,
+            153,
+            203,
+            188,
+            202,
+            163
+        ],
+        "name": "Bounty Hunters",
+        "earnings": 12
+    },
+    "model": "teams.team",
+    "pk": 38
+},
+{
+    "fields": {
+        "player": [
+            219,
+            220,
+            153,
+            203,
+            154,
+            245,
+            188
+        ],
+        "name": "Baby Bev's Baskers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 39
+},
+{
+    "fields": {
+        "player": [
+            189,
+            159,
+            222,
+            153,
+            203,
+            188,
+            163
+        ],
+        "name": "Sports Pope",
+        "earnings": 41
+    },
+    "model": "teams.team",
+    "pk": 40
+},
+{
+    "fields": {
+        "player": [
+            222,
+            151,
+            220,
+            203,
+            154,
+            188,
+            163
+        ],
+        "name": "Suburban Commando",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 41
+},
+{
+    "fields": {
+        "player": [
+            219,
+            214,
+            222,
+            193,
+            153,
+            203,
+            188
+        ],
+        "name": "Purple Haze",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 42
+},
+{
+    "fields": {
+        "player": [
+            173,
+            178,
+            247,
+            245,
+            188,
+            163,
+            217
+        ],
+        "name": "CYAHLATAH",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 43
+},
+{
+    "fields": {
+        "player": [
+            222,
+            225,
+            153,
+            161,
+            203,
+            168,
+            163
+        ],
+        "name": "Duderino",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 44
+},
+{
+    "fields": {
+        "player": [
+            219,
+            212,
+            222,
+            168,
+            188,
+            163,
+            217
+        ],
+        "name": "Ass to McClouth",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 45
+},
+{
+    "fields": {
+        "player": [
+            219,
+            177,
+            223,
+            220,
+            153,
+            241,
+            213
+        ],
+        "name": "Nowaks Sluggers",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 46
+},
+{
+    "fields": {
+        "player": [
+            223,
+            250,
+            222,
+            203,
+            188,
+            150,
+            163
+        ],
+        "name": "Team Soto",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 47
+},
+{
+    "fields": {
+        "player": [
+            168,
+            241,
+            154,
+            245,
+            150,
+            166,
+            192
+        ],
+        "name": "Back Back Gone",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 48
+},
+{
+    "fields": {
+        "player": [
+            189,
+            222,
+            153,
+            203,
+            247,
+            188,
+            163
+        ],
+        "name": "San Man",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 49
+},
+{
+    "fields": {
+        "player": [
+            171,
+            223,
+            203,
+            156,
+            188,
+            163,
+            164
+        ],
+        "name": "Savanna Club",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 50
+},
+{
+    "fields": {
+        "player": [
+            173,
+            222,
+            203,
+            168,
+            163,
+            164,
+            217
+        ],
+        "name": "Joe Buck Yourself",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 51
+},
+{
+    "fields": {
+        "player": [
+            219,
+            214,
+            222,
+            193,
+            203,
+            188,
+            202
+        ],
+        "name": "Rusty Trumbo",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 52
+},
+{
+    "fields": {
+        "player": [
+            224,
+            159,
+            203,
+            168,
+            188,
+            163,
+            217
+        ],
+        "name": "Podiatribe",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 53
+},
+{
+    "fields": {
+        "player": [
+            251,
+            225,
+            161,
+            203,
+            227,
+            202,
+            192
+        ],
+        "name": "Evil Empire",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 54
+},
+{
+    "fields": {
+        "player": [
+            219,
+            222,
+            203,
+            241,
+            188,
+            163,
+            218
+        ],
+        "name": "OTW",
+        "earnings": 12
+    },
+    "model": "teams.team",
+    "pk": 55
+},
+{
+    "fields": {
+        "player": [
+            219,
+            214,
+            225,
+            203,
+            156,
+            188,
+            163
+        ],
+        "name": "86 Mets",
+        "earnings": 12
+    },
+    "model": "teams.team",
+    "pk": 56
+},
+{
+    "fields": {
+        "player": [
+            223,
+            172,
+            156,
+            168,
+            154,
+            196,
+            228
+        ],
+        "name": "Midway Express",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 57
+},
+{
+    "fields": {
+        "player": [
+            225,
+            161,
+            168,
+            241,
+            188,
+            150,
+            163
+        ],
+        "name": "Grass Power",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 58
+},
+{
+    "fields": {
+        "player": [
+            182,
+            214,
+            203,
+            156,
+            188,
+            208,
+            163
+        ],
+        "name": "T & D Sluggers",
+        "earnings": 150
+    },
+    "model": "teams.team",
+    "pk": 59
+},
+{
+    "fields": {
+        "player": [
+            182,
+            219,
+            171,
+            172,
+            241,
+            239,
+            163
+        ],
+        "name": "SUDDDS",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 60
+},
+{
+    "fields": {
+        "player": [
+            219,
+            189,
+            222,
+            240,
+            220,
+            153,
+            188
+        ],
+        "name": "The Great Wugino",
+        "earnings": 0
+    },
+    "model": "teams.team",
+    "pk": 61
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "April",
+        "team": 1
+    },
+    "model": "teams.teammonth",
+    "pk": 1
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "April",
+        "team": 2
+    },
+    "model": "teams.teammonth",
+    "pk": 2
+},
+{
+    "fields": {
+        "value": 18,
+        "key": "April",
+        "team": 3
+    },
+    "model": "teams.teammonth",
+    "pk": 3
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "April",
+        "team": 4
+    },
+    "model": "teams.teammonth",
+    "pk": 4
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "April",
+        "team": 5
+    },
+    "model": "teams.teammonth",
+    "pk": 5
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "April",
+        "team": 6
+    },
+    "model": "teams.teammonth",
+    "pk": 6
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "April",
+        "team": 7
+    },
+    "model": "teams.teammonth",
+    "pk": 7
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "April",
+        "team": 8
+    },
+    "model": "teams.teammonth",
+    "pk": 8
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "April",
+        "team": 9
+    },
+    "model": "teams.teammonth",
+    "pk": 9
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "April",
+        "team": 11
+    },
+    "model": "teams.teammonth",
+    "pk": 10
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "April",
+        "team": 12
+    },
+    "model": "teams.teammonth",
+    "pk": 11
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "April",
+        "team": 13
+    },
+    "model": "teams.teammonth",
+    "pk": 12
+},
+{
+    "fields": {
+        "value": 36,
+        "key": "April",
+        "team": 14
+    },
+    "model": "teams.teammonth",
+    "pk": 13
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "April",
+        "team": 15
+    },
+    "model": "teams.teammonth",
+    "pk": 14
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "April",
+        "team": 16
+    },
+    "model": "teams.teammonth",
+    "pk": 15
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "April",
+        "team": 17
+    },
+    "model": "teams.teammonth",
+    "pk": 16
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "April",
+        "team": 18
+    },
+    "model": "teams.teammonth",
+    "pk": 17
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "April",
+        "team": 19
+    },
+    "model": "teams.teammonth",
+    "pk": 18
+},
+{
+    "fields": {
+        "value": 19,
+        "key": "April",
+        "team": 20
+    },
+    "model": "teams.teammonth",
+    "pk": 19
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "April",
+        "team": 21
+    },
+    "model": "teams.teammonth",
+    "pk": 20
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "April",
+        "team": 22
+    },
+    "model": "teams.teammonth",
+    "pk": 21
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "April",
+        "team": 23
+    },
+    "model": "teams.teammonth",
+    "pk": 22
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "April",
+        "team": 24
+    },
+    "model": "teams.teammonth",
+    "pk": 23
+},
+{
+    "fields": {
+        "value": 14,
+        "key": "April",
+        "team": 25
+    },
+    "model": "teams.teammonth",
+    "pk": 24
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "April",
+        "team": 26
+    },
+    "model": "teams.teammonth",
+    "pk": 25
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "April",
+        "team": 27
+    },
+    "model": "teams.teammonth",
+    "pk": 26
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "April",
+        "team": 28
+    },
+    "model": "teams.teammonth",
+    "pk": 27
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "April",
+        "team": 29
+    },
+    "model": "teams.teammonth",
+    "pk": 28
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "April",
+        "team": 30
+    },
+    "model": "teams.teammonth",
+    "pk": 29
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "April",
+        "team": 31
+    },
+    "model": "teams.teammonth",
+    "pk": 30
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "April",
+        "team": 32
+    },
+    "model": "teams.teammonth",
+    "pk": 31
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "April",
+        "team": 33
+    },
+    "model": "teams.teammonth",
+    "pk": 32
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "April",
+        "team": 34
+    },
+    "model": "teams.teammonth",
+    "pk": 33
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "April",
+        "team": 35
+    },
+    "model": "teams.teammonth",
+    "pk": 34
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "April",
+        "team": 36
+    },
+    "model": "teams.teammonth",
+    "pk": 35
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "April",
+        "team": 37
+    },
+    "model": "teams.teammonth",
+    "pk": 36
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "April",
+        "team": 38
+    },
+    "model": "teams.teammonth",
+    "pk": 37
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "April",
+        "team": 39
+    },
+    "model": "teams.teammonth",
+    "pk": 38
+},
+{
+    "fields": {
+        "value": 36,
+        "key": "April",
+        "team": 40
+    },
+    "model": "teams.teammonth",
+    "pk": 39
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "April",
+        "team": 41
+    },
+    "model": "teams.teammonth",
+    "pk": 40
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "April",
+        "team": 42
+    },
+    "model": "teams.teammonth",
+    "pk": 41
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "April",
+        "team": 43
+    },
+    "model": "teams.teammonth",
+    "pk": 42
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "April",
+        "team": 44
+    },
+    "model": "teams.teammonth",
+    "pk": 43
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "April",
+        "team": 45
+    },
+    "model": "teams.teammonth",
+    "pk": 44
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "April",
+        "team": 46
+    },
+    "model": "teams.teammonth",
+    "pk": 45
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "April",
+        "team": 47
+    },
+    "model": "teams.teammonth",
+    "pk": 46
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "April",
+        "team": 48
+    },
+    "model": "teams.teammonth",
+    "pk": 47
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "April",
+        "team": 49
+    },
+    "model": "teams.teammonth",
+    "pk": 48
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "April",
+        "team": 50
+    },
+    "model": "teams.teammonth",
+    "pk": 49
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "April",
+        "team": 51
+    },
+    "model": "teams.teammonth",
+    "pk": 50
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "April",
+        "team": 52
+    },
+    "model": "teams.teammonth",
+    "pk": 51
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "April",
+        "team": 53
+    },
+    "model": "teams.teammonth",
+    "pk": 52
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "April",
+        "team": 54
+    },
+    "model": "teams.teammonth",
+    "pk": 53
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "April",
+        "team": 55
+    },
+    "model": "teams.teammonth",
+    "pk": 54
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "April",
+        "team": 56
+    },
+    "model": "teams.teammonth",
+    "pk": 55
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "April",
+        "team": 57
+    },
+    "model": "teams.teammonth",
+    "pk": 56
+},
+{
+    "fields": {
+        "value": 16,
+        "key": "April",
+        "team": 58
+    },
+    "model": "teams.teammonth",
+    "pk": 57
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "April",
+        "team": 59
+    },
+    "model": "teams.teammonth",
+    "pk": 58
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "April",
+        "team": 60
+    },
+    "model": "teams.teammonth",
+    "pk": 59
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "April",
+        "team": 10
+    },
+    "model": "teams.teammonth",
+    "pk": 60
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "April",
+        "team": 61
+    },
+    "model": "teams.teammonth",
+    "pk": 61
+},
+{
+    "fields": {
+        "value": 53,
+        "key": "May",
+        "team": 1
+    },
+    "model": "teams.teammonth",
+    "pk": 66
+},
+{
+    "fields": {
+        "value": 47,
+        "key": "May",
+        "team": 2
+    },
+    "model": "teams.teammonth",
+    "pk": 67
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "May",
+        "team": 3
+    },
+    "model": "teams.teammonth",
+    "pk": 68
+},
+{
+    "fields": {
+        "value": 50,
+        "key": "May",
+        "team": 4
+    },
+    "model": "teams.teammonth",
+    "pk": 69
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "May",
+        "team": 5
+    },
+    "model": "teams.teammonth",
+    "pk": 70
+},
+{
+    "fields": {
+        "value": 49,
+        "key": "May",
+        "team": 6
+    },
+    "model": "teams.teammonth",
+    "pk": 71
+},
+{
+    "fields": {
+        "value": 55,
+        "key": "May",
+        "team": 7
+    },
+    "model": "teams.teammonth",
+    "pk": 72
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "May",
+        "team": 8
+    },
+    "model": "teams.teammonth",
+    "pk": 73
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "May",
+        "team": 9
+    },
+    "model": "teams.teammonth",
+    "pk": 74
+},
+{
+    "fields": {
+        "value": 44,
+        "key": "May",
+        "team": 11
+    },
+    "model": "teams.teammonth",
+    "pk": 75
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "May",
+        "team": 12
+    },
+    "model": "teams.teammonth",
+    "pk": 76
+},
+{
+    "fields": {
+        "value": 48,
+        "key": "May",
+        "team": 13
+    },
+    "model": "teams.teammonth",
+    "pk": 77
+},
+{
+    "fields": {
+        "value": 54,
+        "key": "May",
+        "team": 15
+    },
+    "model": "teams.teammonth",
+    "pk": 78
+},
+{
+    "fields": {
+        "value": 48,
+        "key": "May",
+        "team": 17
+    },
+    "model": "teams.teammonth",
+    "pk": 79
+},
+{
+    "fields": {
+        "value": 39,
+        "key": "May",
+        "team": 18
+    },
+    "model": "teams.teammonth",
+    "pk": 80
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "May",
+        "team": 19
+    },
+    "model": "teams.teammonth",
+    "pk": 81
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "May",
+        "team": 20
+    },
+    "model": "teams.teammonth",
+    "pk": 82
+},
+{
+    "fields": {
+        "value": 36,
+        "key": "May",
+        "team": 21
+    },
+    "model": "teams.teammonth",
+    "pk": 83
+},
+{
+    "fields": {
+        "value": 54,
+        "key": "May",
+        "team": 22
+    },
+    "model": "teams.teammonth",
+    "pk": 84
+},
+{
+    "fields": {
+        "value": 44,
+        "key": "May",
+        "team": 23
+    },
+    "model": "teams.teammonth",
+    "pk": 85
+},
+{
+    "fields": {
+        "value": 44,
+        "key": "May",
+        "team": 24
+    },
+    "model": "teams.teammonth",
+    "pk": 86
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "May",
+        "team": 25
+    },
+    "model": "teams.teammonth",
+    "pk": 87
+},
+{
+    "fields": {
+        "value": 36,
+        "key": "May",
+        "team": 26
+    },
+    "model": "teams.teammonth",
+    "pk": 88
+},
+{
+    "fields": {
+        "value": 56,
+        "key": "May",
+        "team": 27
+    },
+    "model": "teams.teammonth",
+    "pk": 89
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "May",
+        "team": 28
+    },
+    "model": "teams.teammonth",
+    "pk": 90
+},
+{
+    "fields": {
+        "value": 41,
+        "key": "May",
+        "team": 29
+    },
+    "model": "teams.teammonth",
+    "pk": 91
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "May",
+        "team": 30
+    },
+    "model": "teams.teammonth",
+    "pk": 92
+},
+{
+    "fields": {
+        "value": 46,
+        "key": "May",
+        "team": 31
+    },
+    "model": "teams.teammonth",
+    "pk": 93
+},
+{
+    "fields": {
+        "value": 46,
+        "key": "May",
+        "team": 32
+    },
+    "model": "teams.teammonth",
+    "pk": 94
+},
+{
+    "fields": {
+        "value": 44,
+        "key": "May",
+        "team": 33
+    },
+    "model": "teams.teammonth",
+    "pk": 95
+},
+{
+    "fields": {
+        "value": 48,
+        "key": "May",
+        "team": 34
+    },
+    "model": "teams.teammonth",
+    "pk": 96
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "May",
+        "team": 35
+    },
+    "model": "teams.teammonth",
+    "pk": 97
+},
+{
+    "fields": {
+        "value": 56,
+        "key": "May",
+        "team": 36
+    },
+    "model": "teams.teammonth",
+    "pk": 98
+},
+{
+    "fields": {
+        "value": 41,
+        "key": "May",
+        "team": 37
+    },
+    "model": "teams.teammonth",
+    "pk": 99
+},
+{
+    "fields": {
+        "value": 56,
+        "key": "May",
+        "team": 38
+    },
+    "model": "teams.teammonth",
+    "pk": 100
+},
+{
+    "fields": {
+        "value": 47,
+        "key": "May",
+        "team": 39
+    },
+    "model": "teams.teammonth",
+    "pk": 101
+},
+{
+    "fields": {
+        "value": 46,
+        "key": "May",
+        "team": 41
+    },
+    "model": "teams.teammonth",
+    "pk": 102
+},
+{
+    "fields": {
+        "value": 41,
+        "key": "May",
+        "team": 42
+    },
+    "model": "teams.teammonth",
+    "pk": 103
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "May",
+        "team": 43
+    },
+    "model": "teams.teammonth",
+    "pk": 104
+},
+{
+    "fields": {
+        "value": 47,
+        "key": "May",
+        "team": 44
+    },
+    "model": "teams.teammonth",
+    "pk": 105
+},
+{
+    "fields": {
+        "value": 41,
+        "key": "May",
+        "team": 45
+    },
+    "model": "teams.teammonth",
+    "pk": 106
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "May",
+        "team": 46
+    },
+    "model": "teams.teammonth",
+    "pk": 107
+},
+{
+    "fields": {
+        "value": 46,
+        "key": "May",
+        "team": 47
+    },
+    "model": "teams.teammonth",
+    "pk": 108
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "May",
+        "team": 48
+    },
+    "model": "teams.teammonth",
+    "pk": 109
+},
+{
+    "fields": {
+        "value": 45,
+        "key": "May",
+        "team": 49
+    },
+    "model": "teams.teammonth",
+    "pk": 110
+},
+{
+    "fields": {
+        "value": 47,
+        "key": "May",
+        "team": 50
+    },
+    "model": "teams.teammonth",
+    "pk": 111
+},
+{
+    "fields": {
+        "value": 39,
+        "key": "May",
+        "team": 51
+    },
+    "model": "teams.teammonth",
+    "pk": 112
+},
+{
+    "fields": {
+        "value": 44,
+        "key": "May",
+        "team": 52
+    },
+    "model": "teams.teammonth",
+    "pk": 113
+},
+{
+    "fields": {
+        "value": 51,
+        "key": "May",
+        "team": 53
+    },
+    "model": "teams.teammonth",
+    "pk": 114
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "May",
+        "team": 54
+    },
+    "model": "teams.teammonth",
+    "pk": 115
+},
+{
+    "fields": {
+        "value": 56,
+        "key": "May",
+        "team": 55
+    },
+    "model": "teams.teammonth",
+    "pk": 116
+},
+{
+    "fields": {
+        "value": 56,
+        "key": "May",
+        "team": 56
+    },
+    "model": "teams.teammonth",
+    "pk": 117
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "May",
+        "team": 57
+    },
+    "model": "teams.teammonth",
+    "pk": 118
+},
+{
+    "fields": {
+        "value": 47,
+        "key": "May",
+        "team": 58
+    },
+    "model": "teams.teammonth",
+    "pk": 119
+},
+{
+    "fields": {
+        "value": 57,
+        "key": "May",
+        "team": 59
+    },
+    "model": "teams.teammonth",
+    "pk": 120
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "May",
+        "team": 60
+    },
+    "model": "teams.teammonth",
+    "pk": 121
+},
+{
+    "fields": {
+        "value": 19,
+        "key": "May",
+        "team": 10
+    },
+    "model": "teams.teammonth",
+    "pk": 122
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "May",
+        "team": 61
+    },
+    "model": "teams.teammonth",
+    "pk": 123
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "May",
+        "team": 16
+    },
+    "model": "teams.teammonth",
+    "pk": 124
+},
+{
+    "fields": {
+        "value": 51,
+        "key": "May",
+        "team": 40
+    },
+    "model": "teams.teammonth",
+    "pk": 125
+},
+{
+    "fields": {
+        "value": 56,
+        "key": "May",
+        "team": 14
+    },
+    "model": "teams.teammonth",
+    "pk": 126
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "June",
+        "team": 1
+    },
+    "model": "teams.teammonth",
+    "pk": 131
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "June",
+        "team": 2
+    },
+    "model": "teams.teammonth",
+    "pk": 132
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "June",
+        "team": 3
+    },
+    "model": "teams.teammonth",
+    "pk": 133
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "June",
+        "team": 4
+    },
+    "model": "teams.teammonth",
+    "pk": 134
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "June",
+        "team": 5
+    },
+    "model": "teams.teammonth",
+    "pk": 135
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "June",
+        "team": 6
+    },
+    "model": "teams.teammonth",
+    "pk": 136
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "June",
+        "team": 7
+    },
+    "model": "teams.teammonth",
+    "pk": 137
+},
+{
+    "fields": {
+        "value": 32,
+        "key": "June",
+        "team": 8
+    },
+    "model": "teams.teammonth",
+    "pk": 138
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "June",
+        "team": 9
+    },
+    "model": "teams.teammonth",
+    "pk": 139
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "June",
+        "team": 11
+    },
+    "model": "teams.teammonth",
+    "pk": 140
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "June",
+        "team": 12
+    },
+    "model": "teams.teammonth",
+    "pk": 141
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "June",
+        "team": 13
+    },
+    "model": "teams.teammonth",
+    "pk": 142
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "June",
+        "team": 15
+    },
+    "model": "teams.teammonth",
+    "pk": 143
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "June",
+        "team": 17
+    },
+    "model": "teams.teammonth",
+    "pk": 144
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "June",
+        "team": 18
+    },
+    "model": "teams.teammonth",
+    "pk": 145
+},
+{
+    "fields": {
+        "value": 36,
+        "key": "June",
+        "team": 19
+    },
+    "model": "teams.teammonth",
+    "pk": 146
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "June",
+        "team": 20
+    },
+    "model": "teams.teammonth",
+    "pk": 147
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "June",
+        "team": 21
+    },
+    "model": "teams.teammonth",
+    "pk": 148
+},
+{
+    "fields": {
+        "value": 33,
+        "key": "June",
+        "team": 22
+    },
+    "model": "teams.teammonth",
+    "pk": 149
+},
+{
+    "fields": {
+        "value": 33,
+        "key": "June",
+        "team": 23
+    },
+    "model": "teams.teammonth",
+    "pk": 150
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "June",
+        "team": 24
+    },
+    "model": "teams.teammonth",
+    "pk": 151
+},
+{
+    "fields": {
+        "value": 19,
+        "key": "June",
+        "team": 25
+    },
+    "model": "teams.teammonth",
+    "pk": 152
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "June",
+        "team": 26
+    },
+    "model": "teams.teammonth",
+    "pk": 153
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "June",
+        "team": 27
+    },
+    "model": "teams.teammonth",
+    "pk": 154
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "June",
+        "team": 28
+    },
+    "model": "teams.teammonth",
+    "pk": 155
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "June",
+        "team": 29
+    },
+    "model": "teams.teammonth",
+    "pk": 156
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "June",
+        "team": 30
+    },
+    "model": "teams.teammonth",
+    "pk": 157
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "June",
+        "team": 31
+    },
+    "model": "teams.teammonth",
+    "pk": 158
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "June",
+        "team": 32
+    },
+    "model": "teams.teammonth",
+    "pk": 159
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "June",
+        "team": 33
+    },
+    "model": "teams.teammonth",
+    "pk": 160
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "June",
+        "team": 34
+    },
+    "model": "teams.teammonth",
+    "pk": 161
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "June",
+        "team": 35
+    },
+    "model": "teams.teammonth",
+    "pk": 162
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "June",
+        "team": 36
+    },
+    "model": "teams.teammonth",
+    "pk": 163
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "June",
+        "team": 37
+    },
+    "model": "teams.teammonth",
+    "pk": 164
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "June",
+        "team": 38
+    },
+    "model": "teams.teammonth",
+    "pk": 165
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "June",
+        "team": 39
+    },
+    "model": "teams.teammonth",
+    "pk": 166
+},
+{
+    "fields": {
+        "value": 33,
+        "key": "June",
+        "team": 41
+    },
+    "model": "teams.teammonth",
+    "pk": 167
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "June",
+        "team": 42
+    },
+    "model": "teams.teammonth",
+    "pk": 168
+},
+{
+    "fields": {
+        "value": 19,
+        "key": "June",
+        "team": 43
+    },
+    "model": "teams.teammonth",
+    "pk": 169
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "June",
+        "team": 44
+    },
+    "model": "teams.teammonth",
+    "pk": 170
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "June",
+        "team": 45
+    },
+    "model": "teams.teammonth",
+    "pk": 171
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "June",
+        "team": 46
+    },
+    "model": "teams.teammonth",
+    "pk": 172
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "June",
+        "team": 47
+    },
+    "model": "teams.teammonth",
+    "pk": 173
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "June",
+        "team": 48
+    },
+    "model": "teams.teammonth",
+    "pk": 174
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "June",
+        "team": 49
+    },
+    "model": "teams.teammonth",
+    "pk": 175
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "June",
+        "team": 50
+    },
+    "model": "teams.teammonth",
+    "pk": 176
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "June",
+        "team": 51
+    },
+    "model": "teams.teammonth",
+    "pk": 177
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "June",
+        "team": 52
+    },
+    "model": "teams.teammonth",
+    "pk": 178
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "June",
+        "team": 53
+    },
+    "model": "teams.teammonth",
+    "pk": 179
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "June",
+        "team": 54
+    },
+    "model": "teams.teammonth",
+    "pk": 180
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "June",
+        "team": 55
+    },
+    "model": "teams.teammonth",
+    "pk": 181
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "June",
+        "team": 56
+    },
+    "model": "teams.teammonth",
+    "pk": 182
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "June",
+        "team": 57
+    },
+    "model": "teams.teammonth",
+    "pk": 183
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "June",
+        "team": 58
+    },
+    "model": "teams.teammonth",
+    "pk": 184
+},
+{
+    "fields": {
+        "value": 32,
+        "key": "June",
+        "team": 59
+    },
+    "model": "teams.teammonth",
+    "pk": 185
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "June",
+        "team": 60
+    },
+    "model": "teams.teammonth",
+    "pk": 186
+},
+{
+    "fields": {
+        "value": 16,
+        "key": "June",
+        "team": 10
+    },
+    "model": "teams.teammonth",
+    "pk": 187
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "June",
+        "team": 61
+    },
+    "model": "teams.teammonth",
+    "pk": 188
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "June",
+        "team": 16
+    },
+    "model": "teams.teammonth",
+    "pk": 189
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "June",
+        "team": 40
+    },
+    "model": "teams.teammonth",
+    "pk": 190
+},
+{
+    "fields": {
+        "value": 43,
+        "key": "June",
+        "team": 14
+    },
+    "model": "teams.teammonth",
+    "pk": 191
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "July",
+        "team": 2
+    },
+    "model": "teams.teammonth",
+    "pk": 197
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "July",
+        "team": 3
+    },
+    "model": "teams.teammonth",
+    "pk": 198
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "July",
+        "team": 4
+    },
+    "model": "teams.teammonth",
+    "pk": 199
+},
+{
+    "fields": {
+        "value": 32,
+        "key": "July",
+        "team": 5
+    },
+    "model": "teams.teammonth",
+    "pk": 200
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "July",
+        "team": 7
+    },
+    "model": "teams.teammonth",
+    "pk": 201
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "July",
+        "team": 8
+    },
+    "model": "teams.teammonth",
+    "pk": 202
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "July",
+        "team": 9
+    },
+    "model": "teams.teammonth",
+    "pk": 203
+},
+{
+    "fields": {
+        "value": 15,
+        "key": "July",
+        "team": 11
+    },
+    "model": "teams.teammonth",
+    "pk": 204
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "July",
+        "team": 13
+    },
+    "model": "teams.teammonth",
+    "pk": 205
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "July",
+        "team": 15
+    },
+    "model": "teams.teammonth",
+    "pk": 206
+},
+{
+    "fields": {
+        "value": 33,
+        "key": "July",
+        "team": 17
+    },
+    "model": "teams.teammonth",
+    "pk": 207
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "July",
+        "team": 18
+    },
+    "model": "teams.teammonth",
+    "pk": 208
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "July",
+        "team": 19
+    },
+    "model": "teams.teammonth",
+    "pk": 209
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "July",
+        "team": 20
+    },
+    "model": "teams.teammonth",
+    "pk": 210
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "July",
+        "team": 22
+    },
+    "model": "teams.teammonth",
+    "pk": 211
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "July",
+        "team": 23
+    },
+    "model": "teams.teammonth",
+    "pk": 212
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "July",
+        "team": 24
+    },
+    "model": "teams.teammonth",
+    "pk": 213
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "July",
+        "team": 25
+    },
+    "model": "teams.teammonth",
+    "pk": 214
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "July",
+        "team": 26
+    },
+    "model": "teams.teammonth",
+    "pk": 215
+},
+{
+    "fields": {
+        "value": 18,
+        "key": "July",
+        "team": 28
+    },
+    "model": "teams.teammonth",
+    "pk": 216
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "July",
+        "team": 29
+    },
+    "model": "teams.teammonth",
+    "pk": 217
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "July",
+        "team": 30
+    },
+    "model": "teams.teammonth",
+    "pk": 218
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "July",
+        "team": 31
+    },
+    "model": "teams.teammonth",
+    "pk": 219
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "July",
+        "team": 32
+    },
+    "model": "teams.teammonth",
+    "pk": 220
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "July",
+        "team": 33
+    },
+    "model": "teams.teammonth",
+    "pk": 221
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "July",
+        "team": 34
+    },
+    "model": "teams.teammonth",
+    "pk": 222
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "July",
+        "team": 35
+    },
+    "model": "teams.teammonth",
+    "pk": 223
+},
+{
+    "fields": {
+        "value": 11,
+        "key": "July",
+        "team": 37
+    },
+    "model": "teams.teammonth",
+    "pk": 224
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "July",
+        "team": 39
+    },
+    "model": "teams.teammonth",
+    "pk": 225
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "July",
+        "team": 41
+    },
+    "model": "teams.teammonth",
+    "pk": 226
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "July",
+        "team": 42
+    },
+    "model": "teams.teammonth",
+    "pk": 227
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "July",
+        "team": 43
+    },
+    "model": "teams.teammonth",
+    "pk": 228
+},
+{
+    "fields": {
+        "value": 16,
+        "key": "July",
+        "team": 44
+    },
+    "model": "teams.teammonth",
+    "pk": 229
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "July",
+        "team": 45
+    },
+    "model": "teams.teammonth",
+    "pk": 230
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "July",
+        "team": 46
+    },
+    "model": "teams.teammonth",
+    "pk": 231
+},
+{
+    "fields": {
+        "value": 19,
+        "key": "July",
+        "team": 47
+    },
+    "model": "teams.teammonth",
+    "pk": 232
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "July",
+        "team": 48
+    },
+    "model": "teams.teammonth",
+    "pk": 233
+},
+{
+    "fields": {
+        "value": 18,
+        "key": "July",
+        "team": 49
+    },
+    "model": "teams.teammonth",
+    "pk": 234
+},
+{
+    "fields": {
+        "value": 36,
+        "key": "July",
+        "team": 50
+    },
+    "model": "teams.teammonth",
+    "pk": 235
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "July",
+        "team": 51
+    },
+    "model": "teams.teammonth",
+    "pk": 236
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "July",
+        "team": 52
+    },
+    "model": "teams.teammonth",
+    "pk": 237
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "July",
+        "team": 53
+    },
+    "model": "teams.teammonth",
+    "pk": 238
+},
+{
+    "fields": {
+        "value": 16,
+        "key": "July",
+        "team": 54
+    },
+    "model": "teams.teammonth",
+    "pk": 239
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "July",
+        "team": 57
+    },
+    "model": "teams.teammonth",
+    "pk": 240
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "July",
+        "team": 58
+    },
+    "model": "teams.teammonth",
+    "pk": 241
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "July",
+        "team": 60
+    },
+    "model": "teams.teammonth",
+    "pk": 242
+},
+{
+    "fields": {
+        "value": 18,
+        "key": "July",
+        "team": 10
+    },
+    "model": "teams.teammonth",
+    "pk": 243
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "July",
+        "team": 61
+    },
+    "model": "teams.teammonth",
+    "pk": 244
+},
+{
+    "fields": {
+        "value": 38,
+        "key": "July",
+        "team": 16
+    },
+    "model": "teams.teammonth",
+    "pk": 245
+},
+{
+    "fields": {
+        "value": 32,
+        "key": "July",
+        "team": 59
+    },
+    "model": "teams.teammonth",
+    "pk": 246
+},
+{
+    "fields": {
+        "value": 14,
+        "key": "July",
+        "team": 14
+    },
+    "model": "teams.teammonth",
+    "pk": 247
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "July",
+        "team": 27
+    },
+    "model": "teams.teammonth",
+    "pk": 248
+},
+{
+    "fields": {
+        "value": 19,
+        "key": "July",
+        "team": 36
+    },
+    "model": "teams.teammonth",
+    "pk": 249
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "July",
+        "team": 56
+    },
+    "model": "teams.teammonth",
+    "pk": 250
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "July",
+        "team": 55
+    },
+    "model": "teams.teammonth",
+    "pk": 251
+},
+{
+    "fields": {
+        "value": 19,
+        "key": "July",
+        "team": 38
+    },
+    "model": "teams.teammonth",
+    "pk": 252
+},
+{
+    "fields": {
+        "value": 18,
+        "key": "July",
+        "team": 21
+    },
+    "model": "teams.teammonth",
+    "pk": 253
+},
+{
+    "fields": {
+        "value": 13,
+        "key": "July",
+        "team": 40
+    },
+    "model": "teams.teammonth",
+    "pk": 254
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "July",
+        "team": 6
+    },
+    "model": "teams.teammonth",
+    "pk": 255
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "July",
+        "team": 1
+    },
+    "model": "teams.teammonth",
+    "pk": 256
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "July",
+        "team": 12
+    },
+    "model": "teams.teammonth",
+    "pk": 257
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "August",
+        "team": 2
+    },
+    "model": "teams.teammonth",
+    "pk": 264
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "August",
+        "team": 3
+    },
+    "model": "teams.teammonth",
+    "pk": 265
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "August",
+        "team": 4
+    },
+    "model": "teams.teammonth",
+    "pk": 266
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "August",
+        "team": 5
+    },
+    "model": "teams.teammonth",
+    "pk": 267
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "August",
+        "team": 7
+    },
+    "model": "teams.teammonth",
+    "pk": 268
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "August",
+        "team": 8
+    },
+    "model": "teams.teammonth",
+    "pk": 269
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "August",
+        "team": 9
+    },
+    "model": "teams.teammonth",
+    "pk": 270
+},
+{
+    "fields": {
+        "value": 16,
+        "key": "August",
+        "team": 11
+    },
+    "model": "teams.teammonth",
+    "pk": 271
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "August",
+        "team": 13
+    },
+    "model": "teams.teammonth",
+    "pk": 272
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "August",
+        "team": 15
+    },
+    "model": "teams.teammonth",
+    "pk": 273
+},
+{
+    "fields": {
+        "value": 38,
+        "key": "August",
+        "team": 17
+    },
+    "model": "teams.teammonth",
+    "pk": 274
+},
+{
+    "fields": {
+        "value": 42,
+        "key": "August",
+        "team": 18
+    },
+    "model": "teams.teammonth",
+    "pk": 275
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "August",
+        "team": 19
+    },
+    "model": "teams.teammonth",
+    "pk": 276
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "August",
+        "team": 20
+    },
+    "model": "teams.teammonth",
+    "pk": 277
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "August",
+        "team": 22
+    },
+    "model": "teams.teammonth",
+    "pk": 278
+},
+{
+    "fields": {
+        "value": 32,
+        "key": "August",
+        "team": 23
+    },
+    "model": "teams.teammonth",
+    "pk": 279
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "August",
+        "team": 24
+    },
+    "model": "teams.teammonth",
+    "pk": 280
+},
+{
+    "fields": {
+        "value": 41,
+        "key": "August",
+        "team": 25
+    },
+    "model": "teams.teammonth",
+    "pk": 281
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "August",
+        "team": 26
+    },
+    "model": "teams.teammonth",
+    "pk": 282
+},
+{
+    "fields": {
+        "value": 15,
+        "key": "August",
+        "team": 28
+    },
+    "model": "teams.teammonth",
+    "pk": 283
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "August",
+        "team": 29
+    },
+    "model": "teams.teammonth",
+    "pk": 284
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "August",
+        "team": 30
+    },
+    "model": "teams.teammonth",
+    "pk": 285
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "August",
+        "team": 31
+    },
+    "model": "teams.teammonth",
+    "pk": 286
+},
+{
+    "fields": {
+        "value": 43,
+        "key": "August",
+        "team": 32
+    },
+    "model": "teams.teammonth",
+    "pk": 287
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "August",
+        "team": 33
+    },
+    "model": "teams.teammonth",
+    "pk": 288
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "August",
+        "team": 34
+    },
+    "model": "teams.teammonth",
+    "pk": 289
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "August",
+        "team": 35
+    },
+    "model": "teams.teammonth",
+    "pk": 290
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "August",
+        "team": 37
+    },
+    "model": "teams.teammonth",
+    "pk": 291
+},
+{
+    "fields": {
+        "value": 33,
+        "key": "August",
+        "team": 39
+    },
+    "model": "teams.teammonth",
+    "pk": 292
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "August",
+        "team": 41
+    },
+    "model": "teams.teammonth",
+    "pk": 293
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "August",
+        "team": 42
+    },
+    "model": "teams.teammonth",
+    "pk": 294
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "August",
+        "team": 43
+    },
+    "model": "teams.teammonth",
+    "pk": 295
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "August",
+        "team": 44
+    },
+    "model": "teams.teammonth",
+    "pk": 296
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "August",
+        "team": 45
+    },
+    "model": "teams.teammonth",
+    "pk": 297
+},
+{
+    "fields": {
+        "value": 36,
+        "key": "August",
+        "team": 46
+    },
+    "model": "teams.teammonth",
+    "pk": 298
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "August",
+        "team": 47
+    },
+    "model": "teams.teammonth",
+    "pk": 299
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "August",
+        "team": 48
+    },
+    "model": "teams.teammonth",
+    "pk": 300
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "August",
+        "team": 49
+    },
+    "model": "teams.teammonth",
+    "pk": 301
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "August",
+        "team": 50
+    },
+    "model": "teams.teammonth",
+    "pk": 302
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "August",
+        "team": 51
+    },
+    "model": "teams.teammonth",
+    "pk": 303
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "August",
+        "team": 52
+    },
+    "model": "teams.teammonth",
+    "pk": 304
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "August",
+        "team": 53
+    },
+    "model": "teams.teammonth",
+    "pk": 305
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "August",
+        "team": 54
+    },
+    "model": "teams.teammonth",
+    "pk": 306
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "August",
+        "team": 57
+    },
+    "model": "teams.teammonth",
+    "pk": 307
+},
+{
+    "fields": {
+        "value": 45,
+        "key": "August",
+        "team": 58
+    },
+    "model": "teams.teammonth",
+    "pk": 308
+},
+{
+    "fields": {
+        "value": 41,
+        "key": "August",
+        "team": 60
+    },
+    "model": "teams.teammonth",
+    "pk": 309
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "August",
+        "team": 10
+    },
+    "model": "teams.teammonth",
+    "pk": 310
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "August",
+        "team": 61
+    },
+    "model": "teams.teammonth",
+    "pk": 311
+},
+{
+    "fields": {
+        "value": 15,
+        "key": "August",
+        "team": 16
+    },
+    "model": "teams.teammonth",
+    "pk": 312
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "August",
+        "team": 59
+    },
+    "model": "teams.teammonth",
+    "pk": 313
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "August",
+        "team": 14
+    },
+    "model": "teams.teammonth",
+    "pk": 314
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "August",
+        "team": 27
+    },
+    "model": "teams.teammonth",
+    "pk": 315
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "August",
+        "team": 36
+    },
+    "model": "teams.teammonth",
+    "pk": 316
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "August",
+        "team": 56
+    },
+    "model": "teams.teammonth",
+    "pk": 317
+},
+{
+    "fields": {
+        "value": 41,
+        "key": "August",
+        "team": 55
+    },
+    "model": "teams.teammonth",
+    "pk": 318
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "August",
+        "team": 38
+    },
+    "model": "teams.teammonth",
+    "pk": 319
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "August",
+        "team": 21
+    },
+    "model": "teams.teammonth",
+    "pk": 320
+},
+{
+    "fields": {
+        "value": 15,
+        "key": "August",
+        "team": 40
+    },
+    "model": "teams.teammonth",
+    "pk": 321
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "August",
+        "team": 6
+    },
+    "model": "teams.teammonth",
+    "pk": 322
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "August",
+        "team": 1
+    },
+    "model": "teams.teammonth",
+    "pk": 323
+},
+{
+    "fields": {
+        "value": 15,
+        "key": "August",
+        "team": 12
+    },
+    "model": "teams.teammonth",
+    "pk": 324
+},
+{
+    "fields": {
+        "value": 33,
+        "key": "September",
+        "team": 2
+    },
+    "model": "teams.teammonth",
+    "pk": 331
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "September",
+        "team": 3
+    },
+    "model": "teams.teammonth",
+    "pk": 332
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "September",
+        "team": 4
+    },
+    "model": "teams.teammonth",
+    "pk": 333
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "September",
+        "team": 5
+    },
+    "model": "teams.teammonth",
+    "pk": 334
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "September",
+        "team": 7
+    },
+    "model": "teams.teammonth",
+    "pk": 335
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "September",
+        "team": 8
+    },
+    "model": "teams.teammonth",
+    "pk": 336
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "September",
+        "team": 9
+    },
+    "model": "teams.teammonth",
+    "pk": 337
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "September",
+        "team": 11
+    },
+    "model": "teams.teammonth",
+    "pk": 338
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "September",
+        "team": 13
+    },
+    "model": "teams.teammonth",
+    "pk": 339
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "September",
+        "team": 15
+    },
+    "model": "teams.teammonth",
+    "pk": 340
+},
+{
+    "fields": {
+        "value": 32,
+        "key": "September",
+        "team": 17
+    },
+    "model": "teams.teammonth",
+    "pk": 341
+},
+{
+    "fields": {
+        "value": 44,
+        "key": "September",
+        "team": 18
+    },
+    "model": "teams.teammonth",
+    "pk": 342
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "September",
+        "team": 19
+    },
+    "model": "teams.teammonth",
+    "pk": 343
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "September",
+        "team": 20
+    },
+    "model": "teams.teammonth",
+    "pk": 344
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "September",
+        "team": 22
+    },
+    "model": "teams.teammonth",
+    "pk": 345
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "September",
+        "team": 23
+    },
+    "model": "teams.teammonth",
+    "pk": 346
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "September",
+        "team": 24
+    },
+    "model": "teams.teammonth",
+    "pk": 347
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "September",
+        "team": 25
+    },
+    "model": "teams.teammonth",
+    "pk": 348
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "September",
+        "team": 26
+    },
+    "model": "teams.teammonth",
+    "pk": 349
+},
+{
+    "fields": {
+        "value": 21,
+        "key": "September",
+        "team": 28
+    },
+    "model": "teams.teammonth",
+    "pk": 350
+},
+{
+    "fields": {
+        "value": 32,
+        "key": "September",
+        "team": 29
+    },
+    "model": "teams.teammonth",
+    "pk": 351
+},
+{
+    "fields": {
+        "value": 25,
+        "key": "September",
+        "team": 30
+    },
+    "model": "teams.teammonth",
+    "pk": 352
+},
+{
+    "fields": {
+        "value": 28,
+        "key": "September",
+        "team": 31
+    },
+    "model": "teams.teammonth",
+    "pk": 353
+},
+{
+    "fields": {
+        "value": 39,
+        "key": "September",
+        "team": 32
+    },
+    "model": "teams.teammonth",
+    "pk": 354
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "September",
+        "team": 33
+    },
+    "model": "teams.teammonth",
+    "pk": 355
+},
+{
+    "fields": {
+        "value": 36,
+        "key": "September",
+        "team": 34
+    },
+    "model": "teams.teammonth",
+    "pk": 356
+},
+{
+    "fields": {
+        "value": 34,
+        "key": "September",
+        "team": 35
+    },
+    "model": "teams.teammonth",
+    "pk": 357
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "September",
+        "team": 37
+    },
+    "model": "teams.teammonth",
+    "pk": 358
+},
+{
+    "fields": {
+        "value": 23,
+        "key": "September",
+        "team": 39
+    },
+    "model": "teams.teammonth",
+    "pk": 359
+},
+{
+    "fields": {
+        "value": 31,
+        "key": "September",
+        "team": 41
+    },
+    "model": "teams.teammonth",
+    "pk": 360
+},
+{
+    "fields": {
+        "value": 32,
+        "key": "September",
+        "team": 42
+    },
+    "model": "teams.teammonth",
+    "pk": 361
+},
+{
+    "fields": {
+        "value": 33,
+        "key": "September",
+        "team": 43
+    },
+    "model": "teams.teammonth",
+    "pk": 362
+},
+{
+    "fields": {
+        "value": 22,
+        "key": "September",
+        "team": 44
+    },
+    "model": "teams.teammonth",
+    "pk": 363
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "September",
+        "team": 45
+    },
+    "model": "teams.teammonth",
+    "pk": 364
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "September",
+        "team": 46
+    },
+    "model": "teams.teammonth",
+    "pk": 365
+},
+{
+    "fields": {
+        "value": 33,
+        "key": "September",
+        "team": 47
+    },
+    "model": "teams.teammonth",
+    "pk": 366
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "September",
+        "team": 48
+    },
+    "model": "teams.teammonth",
+    "pk": 367
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "September",
+        "team": 49
+    },
+    "model": "teams.teammonth",
+    "pk": 368
+},
+{
+    "fields": {
+        "value": 38,
+        "key": "September",
+        "team": 50
+    },
+    "model": "teams.teammonth",
+    "pk": 369
+},
+{
+    "fields": {
+        "value": 30,
+        "key": "September",
+        "team": 51
+    },
+    "model": "teams.teammonth",
+    "pk": 370
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "September",
+        "team": 52
+    },
+    "model": "teams.teammonth",
+    "pk": 371
+},
+{
+    "fields": {
+        "value": 38,
+        "key": "September",
+        "team": 53
+    },
+    "model": "teams.teammonth",
+    "pk": 372
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "September",
+        "team": 54
+    },
+    "model": "teams.teammonth",
+    "pk": 373
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "September",
+        "team": 57
+    },
+    "model": "teams.teammonth",
+    "pk": 374
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "September",
+        "team": 58
+    },
+    "model": "teams.teammonth",
+    "pk": 375
+},
+{
+    "fields": {
+        "value": 39,
+        "key": "September",
+        "team": 60
+    },
+    "model": "teams.teammonth",
+    "pk": 376
+},
+{
+    "fields": {
+        "value": 24,
+        "key": "September",
+        "team": 10
+    },
+    "model": "teams.teammonth",
+    "pk": 377
+},
+{
+    "fields": {
+        "value": 19,
+        "key": "September",
+        "team": 61
+    },
+    "model": "teams.teammonth",
+    "pk": 378
+},
+{
+    "fields": {
+        "value": 17,
+        "key": "September",
+        "team": 16
+    },
+    "model": "teams.teammonth",
+    "pk": 379
+},
+{
+    "fields": {
+        "value": 38,
+        "key": "September",
+        "team": 59
+    },
+    "model": "teams.teammonth",
+    "pk": 380
+},
+{
+    "fields": {
+        "value": 29,
+        "key": "September",
+        "team": 14
+    },
+    "model": "teams.teammonth",
+    "pk": 381
+},
+{
+    "fields": {
+        "value": 27,
+        "key": "September",
+        "team": 27
+    },
+    "model": "teams.teammonth",
+    "pk": 382
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "September",
+        "team": 36
+    },
+    "model": "teams.teammonth",
+    "pk": 383
+},
+{
+    "fields": {
+        "value": 42,
+        "key": "September",
+        "team": 56
+    },
+    "model": "teams.teammonth",
+    "pk": 384
+},
+{
+    "fields": {
+        "value": 37,
+        "key": "September",
+        "team": 55
+    },
+    "model": "teams.teammonth",
+    "pk": 385
+},
+{
+    "fields": {
+        "value": 35,
+        "key": "September",
+        "team": 38
+    },
+    "model": "teams.teammonth",
+    "pk": 386
+},
+{
+    "fields": {
+        "value": 33,
+        "key": "September",
+        "team": 21
+    },
+    "model": "teams.teammonth",
+    "pk": 387
+},
+{
+    "fields": {
+        "value": 20,
+        "key": "September",
+        "team": 40
+    },
+    "model": "teams.teammonth",
+    "pk": 388
+},
+{
+    "fields": {
+        "value": 41,
+        "key": "September",
+        "team": 6
+    },
+    "model": "teams.teammonth",
+    "pk": 389
+},
+{
+    "fields": {
+        "value": 40,
+        "key": "September",
+        "team": 1
+    },
+    "model": "teams.teammonth",
+    "pk": 390
+},
+{
+    "fields": {
+        "value": 26,
+        "key": "September",
+        "team": 12
+    },
+    "model": "teams.teammonth",
+    "pk": 391
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 2
+    },
+    "model": "teams.teammonth",
+    "pk": 398
+},
+{
+    "fields": {
+        "value": 2,
+        "key": "October",
+        "team": 3
+    },
+    "model": "teams.teammonth",
+    "pk": 399
+},
+{
+    "fields": {
+        "value": 4,
+        "key": "October",
+        "team": 4
+    },
+    "model": "teams.teammonth",
+    "pk": 400
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 5
+    },
+    "model": "teams.teammonth",
+    "pk": 401
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 7
+    },
+    "model": "teams.teammonth",
+    "pk": 402
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 8
+    },
+    "model": "teams.teammonth",
+    "pk": 403
+},
+{
+    "fields": {
+        "value": 2,
+        "key": "October",
+        "team": 9
+    },
+    "model": "teams.teammonth",
+    "pk": 404
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 11
+    },
+    "model": "teams.teammonth",
+    "pk": 405
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 13
+    },
+    "model": "teams.teammonth",
+    "pk": 406
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 15
+    },
+    "model": "teams.teammonth",
+    "pk": 407
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 17
+    },
+    "model": "teams.teammonth",
+    "pk": 408
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 18
+    },
+    "model": "teams.teammonth",
+    "pk": 409
+},
+{
+    "fields": {
+        "value": 4,
+        "key": "October",
+        "team": 19
+    },
+    "model": "teams.teammonth",
+    "pk": 410
+},
+{
+    "fields": {
+        "value": 2,
+        "key": "October",
+        "team": 20
+    },
+    "model": "teams.teammonth",
+    "pk": 411
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 22
+    },
+    "model": "teams.teammonth",
+    "pk": 412
+},
+{
+    "fields": {
+        "value": 6,
+        "key": "October",
+        "team": 23
+    },
+    "model": "teams.teammonth",
+    "pk": 413
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 24
+    },
+    "model": "teams.teammonth",
+    "pk": 414
+},
+{
+    "fields": {
+        "value": 1,
+        "key": "October",
+        "team": 25
+    },
+    "model": "teams.teammonth",
+    "pk": 415
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 26
+    },
+    "model": "teams.teammonth",
+    "pk": 416
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 28
+    },
+    "model": "teams.teammonth",
+    "pk": 417
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 29
+    },
+    "model": "teams.teammonth",
+    "pk": 418
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 30
+    },
+    "model": "teams.teammonth",
+    "pk": 419
+},
+{
+    "fields": {
+        "value": 4,
+        "key": "October",
+        "team": 31
+    },
+    "model": "teams.teammonth",
+    "pk": 420
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 32
+    },
+    "model": "teams.teammonth",
+    "pk": 421
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 33
+    },
+    "model": "teams.teammonth",
+    "pk": 422
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 34
+    },
+    "model": "teams.teammonth",
+    "pk": 423
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 35
+    },
+    "model": "teams.teammonth",
+    "pk": 424
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 37
+    },
+    "model": "teams.teammonth",
+    "pk": 425
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 39
+    },
+    "model": "teams.teammonth",
+    "pk": 426
+},
+{
+    "fields": {
+        "value": 4,
+        "key": "October",
+        "team": 41
+    },
+    "model": "teams.teammonth",
+    "pk": 427
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 42
+    },
+    "model": "teams.teammonth",
+    "pk": 428
+},
+{
+    "fields": {
+        "value": 1,
+        "key": "October",
+        "team": 43
+    },
+    "model": "teams.teammonth",
+    "pk": 429
+},
+{
+    "fields": {
+        "value": 6,
+        "key": "October",
+        "team": 44
+    },
+    "model": "teams.teammonth",
+    "pk": 430
+},
+{
+    "fields": {
+        "value": 4,
+        "key": "October",
+        "team": 45
+    },
+    "model": "teams.teammonth",
+    "pk": 431
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 46
+    },
+    "model": "teams.teammonth",
+    "pk": 432
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 47
+    },
+    "model": "teams.teammonth",
+    "pk": 433
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 48
+    },
+    "model": "teams.teammonth",
+    "pk": 434
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 49
+    },
+    "model": "teams.teammonth",
+    "pk": 435
+},
+{
+    "fields": {
+        "value": 6,
+        "key": "October",
+        "team": 50
+    },
+    "model": "teams.teammonth",
+    "pk": 436
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 51
+    },
+    "model": "teams.teammonth",
+    "pk": 437
+},
+{
+    "fields": {
+        "value": 6,
+        "key": "October",
+        "team": 52
+    },
+    "model": "teams.teammonth",
+    "pk": 438
+},
+{
+    "fields": {
+        "value": 4,
+        "key": "October",
+        "team": 53
+    },
+    "model": "teams.teammonth",
+    "pk": 439
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 54
+    },
+    "model": "teams.teammonth",
+    "pk": 440
+},
+{
+    "fields": {
+        "value": 1,
+        "key": "October",
+        "team": 57
+    },
+    "model": "teams.teammonth",
+    "pk": 441
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 58
+    },
+    "model": "teams.teammonth",
+    "pk": 442
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 60
+    },
+    "model": "teams.teammonth",
+    "pk": 443
+},
+{
+    "fields": {
+        "value": 3,
+        "key": "October",
+        "team": 10
+    },
+    "model": "teams.teammonth",
+    "pk": 444
+},
+{
+    "fields": {
+        "value": 6,
+        "key": "October",
+        "team": 61
+    },
+    "model": "teams.teammonth",
+    "pk": 445
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "October",
+        "team": 16
+    },
+    "model": "teams.teammonth",
+    "pk": 446
+},
+{
+    "fields": {
+        "value": 4,
+        "key": "October",
+        "team": 59
+    },
+    "model": "teams.teammonth",
+    "pk": 447
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 14
+    },
+    "model": "teams.teammonth",
+    "pk": 448
+},
+{
+    "fields": {
+        "value": 4,
+        "key": "October",
+        "team": 27
+    },
+    "model": "teams.teammonth",
+    "pk": 449
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 36
+    },
+    "model": "teams.teammonth",
+    "pk": 450
+},
+{
+    "fields": {
+        "value": 6,
+        "key": "October",
+        "team": 56
+    },
+    "model": "teams.teammonth",
+    "pk": 451
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 55
+    },
+    "model": "teams.teammonth",
+    "pk": 452
+},
+{
+    "fields": {
+        "value": 7,
+        "key": "October",
+        "team": 38
+    },
+    "model": "teams.teammonth",
+    "pk": 453
+},
+{
+    "fields": {
+        "value": 6,
+        "key": "October",
+        "team": 21
+    },
+    "model": "teams.teammonth",
+    "pk": 454
+},
+{
+    "fields": {
+        "value": 5,
+        "key": "October",
+        "team": 40
+    },
+    "model": "teams.teammonth",
+    "pk": 455
+},
+{
+    "fields": {
+        "value": 6,
+        "key": "October",
+        "team": 6
+    },
+    "model": "teams.teammonth",
+    "pk": 456
+},
+{
+    "fields": {
+        "value": 8,
+        "key": "October",
+        "team": 1
+    },
+    "model": "teams.teammonth",
+    "pk": 457
+},
+{
+    "fields": {
+        "value": 4,
+        "key": "October",
+        "team": 12
+    },
+    "model": "teams.teammonth",
+    "pk": 458
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 2
+    },
+    "model": "teams.teammonth",
+    "pk": 464
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 3
+    },
+    "model": "teams.teammonth",
+    "pk": 465
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 4
+    },
+    "model": "teams.teammonth",
+    "pk": 466
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 5
+    },
+    "model": "teams.teammonth",
+    "pk": 467
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 7
+    },
+    "model": "teams.teammonth",
+    "pk": 468
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 8
+    },
+    "model": "teams.teammonth",
+    "pk": 469
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 9
+    },
+    "model": "teams.teammonth",
+    "pk": 470
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 11
+    },
+    "model": "teams.teammonth",
+    "pk": 471
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 13
+    },
+    "model": "teams.teammonth",
+    "pk": 472
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 15
+    },
+    "model": "teams.teammonth",
+    "pk": 473
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 17
+    },
+    "model": "teams.teammonth",
+    "pk": 474
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 18
+    },
+    "model": "teams.teammonth",
+    "pk": 475
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 19
+    },
+    "model": "teams.teammonth",
+    "pk": 476
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 20
+    },
+    "model": "teams.teammonth",
+    "pk": 477
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 22
+    },
+    "model": "teams.teammonth",
+    "pk": 478
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 23
+    },
+    "model": "teams.teammonth",
+    "pk": 479
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 24
+    },
+    "model": "teams.teammonth",
+    "pk": 480
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 25
+    },
+    "model": "teams.teammonth",
+    "pk": 481
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 26
+    },
+    "model": "teams.teammonth",
+    "pk": 482
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 28
+    },
+    "model": "teams.teammonth",
+    "pk": 483
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 29
+    },
+    "model": "teams.teammonth",
+    "pk": 484
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 30
+    },
+    "model": "teams.teammonth",
+    "pk": 485
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 31
+    },
+    "model": "teams.teammonth",
+    "pk": 486
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 32
+    },
+    "model": "teams.teammonth",
+    "pk": 487
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 33
+    },
+    "model": "teams.teammonth",
+    "pk": 488
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 34
+    },
+    "model": "teams.teammonth",
+    "pk": 489
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 35
+    },
+    "model": "teams.teammonth",
+    "pk": 490
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 37
+    },
+    "model": "teams.teammonth",
+    "pk": 491
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 39
+    },
+    "model": "teams.teammonth",
+    "pk": 492
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 41
+    },
+    "model": "teams.teammonth",
+    "pk": 493
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 42
+    },
+    "model": "teams.teammonth",
+    "pk": 494
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 43
+    },
+    "model": "teams.teammonth",
+    "pk": 495
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 44
+    },
+    "model": "teams.teammonth",
+    "pk": 496
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 45
+    },
+    "model": "teams.teammonth",
+    "pk": 497
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 46
+    },
+    "model": "teams.teammonth",
+    "pk": 498
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 47
+    },
+    "model": "teams.teammonth",
+    "pk": 499
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 48
+    },
+    "model": "teams.teammonth",
+    "pk": 500
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 49
+    },
+    "model": "teams.teammonth",
+    "pk": 501
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 50
+    },
+    "model": "teams.teammonth",
+    "pk": 502
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 51
+    },
+    "model": "teams.teammonth",
+    "pk": 503
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 52
+    },
+    "model": "teams.teammonth",
+    "pk": 504
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 53
+    },
+    "model": "teams.teammonth",
+    "pk": 505
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 54
+    },
+    "model": "teams.teammonth",
+    "pk": 506
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 57
+    },
+    "model": "teams.teammonth",
+    "pk": 507
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 58
+    },
+    "model": "teams.teammonth",
+    "pk": 508
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 60
+    },
+    "model": "teams.teammonth",
+    "pk": 509
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 10
+    },
+    "model": "teams.teammonth",
+    "pk": 510
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 61
+    },
+    "model": "teams.teammonth",
+    "pk": 511
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 16
+    },
+    "model": "teams.teammonth",
+    "pk": 512
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 59
+    },
+    "model": "teams.teammonth",
+    "pk": 513
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 14
+    },
+    "model": "teams.teammonth",
+    "pk": 514
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 27
+    },
+    "model": "teams.teammonth",
+    "pk": 515
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 36
+    },
+    "model": "teams.teammonth",
+    "pk": 516
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 56
+    },
+    "model": "teams.teammonth",
+    "pk": 517
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 55
+    },
+    "model": "teams.teammonth",
+    "pk": 518
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 38
+    },
+    "model": "teams.teammonth",
+    "pk": 519
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 21
+    },
+    "model": "teams.teammonth",
+    "pk": 520
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 40
+    },
+    "model": "teams.teammonth",
+    "pk": 521
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 6
+    },
+    "model": "teams.teammonth",
+    "pk": 522
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 1
+    },
+    "model": "teams.teammonth",
+    "pk": 523
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "November",
+        "team": 12
+    },
+    "model": "teams.teammonth",
+    "pk": 524
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 2
+    },
+    "model": "teams.teammonth",
+    "pk": 531
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 3
+    },
+    "model": "teams.teammonth",
+    "pk": 532
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 4
+    },
+    "model": "teams.teammonth",
+    "pk": 533
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 5
+    },
+    "model": "teams.teammonth",
+    "pk": 534
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 7
+    },
+    "model": "teams.teammonth",
+    "pk": 535
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 8
+    },
+    "model": "teams.teammonth",
+    "pk": 536
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 9
+    },
+    "model": "teams.teammonth",
+    "pk": 537
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 11
+    },
+    "model": "teams.teammonth",
+    "pk": 538
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 13
+    },
+    "model": "teams.teammonth",
+    "pk": 539
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 15
+    },
+    "model": "teams.teammonth",
+    "pk": 540
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 17
+    },
+    "model": "teams.teammonth",
+    "pk": 541
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 18
+    },
+    "model": "teams.teammonth",
+    "pk": 542
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 19
+    },
+    "model": "teams.teammonth",
+    "pk": 543
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 20
+    },
+    "model": "teams.teammonth",
+    "pk": 544
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 22
+    },
+    "model": "teams.teammonth",
+    "pk": 545
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 23
+    },
+    "model": "teams.teammonth",
+    "pk": 546
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 24
+    },
+    "model": "teams.teammonth",
+    "pk": 547
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 25
+    },
+    "model": "teams.teammonth",
+    "pk": 548
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 26
+    },
+    "model": "teams.teammonth",
+    "pk": 549
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 28
+    },
+    "model": "teams.teammonth",
+    "pk": 550
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 29
+    },
+    "model": "teams.teammonth",
+    "pk": 551
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 30
+    },
+    "model": "teams.teammonth",
+    "pk": 552
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 31
+    },
+    "model": "teams.teammonth",
+    "pk": 553
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 32
+    },
+    "model": "teams.teammonth",
+    "pk": 554
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 33
+    },
+    "model": "teams.teammonth",
+    "pk": 555
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 34
+    },
+    "model": "teams.teammonth",
+    "pk": 556
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 35
+    },
+    "model": "teams.teammonth",
+    "pk": 557
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 37
+    },
+    "model": "teams.teammonth",
+    "pk": 558
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 39
+    },
+    "model": "teams.teammonth",
+    "pk": 559
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 41
+    },
+    "model": "teams.teammonth",
+    "pk": 560
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 42
+    },
+    "model": "teams.teammonth",
+    "pk": 561
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 43
+    },
+    "model": "teams.teammonth",
+    "pk": 562
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 44
+    },
+    "model": "teams.teammonth",
+    "pk": 563
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 45
+    },
+    "model": "teams.teammonth",
+    "pk": 564
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 46
+    },
+    "model": "teams.teammonth",
+    "pk": 565
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 47
+    },
+    "model": "teams.teammonth",
+    "pk": 566
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 48
+    },
+    "model": "teams.teammonth",
+    "pk": 567
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 49
+    },
+    "model": "teams.teammonth",
+    "pk": 568
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 50
+    },
+    "model": "teams.teammonth",
+    "pk": 569
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 51
+    },
+    "model": "teams.teammonth",
+    "pk": 570
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 52
+    },
+    "model": "teams.teammonth",
+    "pk": 571
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 53
+    },
+    "model": "teams.teammonth",
+    "pk": 572
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 54
+    },
+    "model": "teams.teammonth",
+    "pk": 573
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 57
+    },
+    "model": "teams.teammonth",
+    "pk": 574
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 58
+    },
+    "model": "teams.teammonth",
+    "pk": 575
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 60
+    },
+    "model": "teams.teammonth",
+    "pk": 576
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 10
+    },
+    "model": "teams.teammonth",
+    "pk": 577
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 61
+    },
+    "model": "teams.teammonth",
+    "pk": 578
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 16
+    },
+    "model": "teams.teammonth",
+    "pk": 579
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 59
+    },
+    "model": "teams.teammonth",
+    "pk": 580
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 14
+    },
+    "model": "teams.teammonth",
+    "pk": 581
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 27
+    },
+    "model": "teams.teammonth",
+    "pk": 582
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 36
+    },
+    "model": "teams.teammonth",
+    "pk": 583
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 56
+    },
+    "model": "teams.teammonth",
+    "pk": 584
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 55
+    },
+    "model": "teams.teammonth",
+    "pk": 585
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 38
+    },
+    "model": "teams.teammonth",
+    "pk": 586
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 21
+    },
+    "model": "teams.teammonth",
+    "pk": 587
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 40
+    },
+    "model": "teams.teammonth",
+    "pk": 588
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 6
+    },
+    "model": "teams.teammonth",
+    "pk": 589
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 1
+    },
+    "model": "teams.teammonth",
+    "pk": 590
+},
+{
+    "fields": {
+        "value": 0,
+        "key": "",
+        "team": 12
+    },
+    "model": "teams.teammonth",
+    "pk": 591
+},
+{
+    "fields": {
+        "codename": "add_logentry",
+        "name": "Can add log entry",
+        "content_type": 1
+    },
+    "model": "auth.permission",
+    "pk": 1
+},
+{
+    "fields": {
+        "codename": "change_logentry",
+        "name": "Can change log entry",
+        "content_type": 1
+    },
+    "model": "auth.permission",
+    "pk": 2
+},
+{
+    "fields": {
+        "codename": "delete_logentry",
+        "name": "Can delete log entry",
+        "content_type": 1
+    },
+    "model": "auth.permission",
+    "pk": 3
+},
+{
+    "fields": {
+        "codename": "add_permission",
+        "name": "Can add permission",
+        "content_type": 2
+    },
+    "model": "auth.permission",
+    "pk": 4
+},
+{
+    "fields": {
+        "codename": "change_permission",
+        "name": "Can change permission",
+        "content_type": 2
+    },
+    "model": "auth.permission",
+    "pk": 5
+},
+{
+    "fields": {
+        "codename": "delete_permission",
+        "name": "Can delete permission",
+        "content_type": 2
+    },
+    "model": "auth.permission",
+    "pk": 6
+},
+{
+    "fields": {
+        "codename": "add_group",
+        "name": "Can add group",
+        "content_type": 3
+    },
+    "model": "auth.permission",
+    "pk": 7
+},
+{
+    "fields": {
+        "codename": "change_group",
+        "name": "Can change group",
+        "content_type": 3
+    },
+    "model": "auth.permission",
+    "pk": 8
+},
+{
+    "fields": {
+        "codename": "delete_group",
+        "name": "Can delete group",
+        "content_type": 3
+    },
+    "model": "auth.permission",
+    "pk": 9
+},
+{
+    "fields": {
+        "codename": "add_user",
+        "name": "Can add user",
+        "content_type": 4
+    },
+    "model": "auth.permission",
+    "pk": 10
+},
+{
+    "fields": {
+        "codename": "change_user",
+        "name": "Can change user",
+        "content_type": 4
+    },
+    "model": "auth.permission",
+    "pk": 11
+},
+{
+    "fields": {
+        "codename": "delete_user",
+        "name": "Can delete user",
+        "content_type": 4
+    },
+    "model": "auth.permission",
+    "pk": 12
+},
+{
+    "fields": {
+        "codename": "add_contenttype",
+        "name": "Can add content type",
+        "content_type": 5
+    },
+    "model": "auth.permission",
+    "pk": 13
+},
+{
+    "fields": {
+        "codename": "change_contenttype",
+        "name": "Can change content type",
+        "content_type": 5
+    },
+    "model": "auth.permission",
+    "pk": 14
+},
+{
+    "fields": {
+        "codename": "delete_contenttype",
+        "name": "Can delete content type",
+        "content_type": 5
+    },
+    "model": "auth.permission",
+    "pk": 15
+},
+{
+    "fields": {
+        "codename": "add_session",
+        "name": "Can add session",
+        "content_type": 6
+    },
+    "model": "auth.permission",
+    "pk": 16
+},
+{
+    "fields": {
+        "codename": "change_session",
+        "name": "Can change session",
+        "content_type": 6
+    },
+    "model": "auth.permission",
+    "pk": 17
+},
+{
+    "fields": {
+        "codename": "delete_session",
+        "name": "Can delete session",
+        "content_type": 6
+    },
+    "model": "auth.permission",
+    "pk": 18
+},
+{
+    "fields": {
+        "codename": "add_player",
+        "name": "Can add player",
+        "content_type": 7
+    },
+    "model": "auth.permission",
+    "pk": 19
+},
+{
+    "fields": {
+        "codename": "change_player",
+        "name": "Can change player",
+        "content_type": 7
+    },
+    "model": "auth.permission",
+    "pk": 20
+},
+{
+    "fields": {
+        "codename": "delete_player",
+        "name": "Can delete player",
+        "content_type": 7
+    },
+    "model": "auth.permission",
+    "pk": 21
+},
+{
+    "fields": {
+        "codename": "add_team",
+        "name": "Can add team",
+        "content_type": 8
+    },
+    "model": "auth.permission",
+    "pk": 22
+},
+{
+    "fields": {
+        "codename": "change_team",
+        "name": "Can change team",
+        "content_type": 8
+    },
+    "model": "auth.permission",
+    "pk": 23
+},
+{
+    "fields": {
+        "codename": "delete_team",
+        "name": "Can delete team",
+        "content_type": 8
+    },
+    "model": "auth.permission",
+    "pk": 24
+},
+{
+    "fields": {
+        "codename": "add_teammonth",
+        "name": "Can add team month",
+        "content_type": 9
+    },
+    "model": "auth.permission",
+    "pk": 25
+},
+{
+    "fields": {
+        "codename": "change_teammonth",
+        "name": "Can change team month",
+        "content_type": 9
+    },
+    "model": "auth.permission",
+    "pk": 26
+},
+{
+    "fields": {
+        "codename": "delete_teammonth",
+        "name": "Can delete team month",
+        "content_type": 9
+    },
+    "model": "auth.permission",
+    "pk": 27
+},
+{
+    "fields": {
+        "username": "cherepski",
+        "first_name": "",
+        "last_name": "",
+        "is_active": true,
+        "is_superuser": true,
+        "is_staff": true,
+        "last_login": "2015-10-03T01:45:29.746Z",
+        "groups": [],
+        "user_permissions": [],
+        "password": "pbkdf2_sha256$20000$LKSkbqu6D4xZ$3A0VuBzWXfYy01sHC/r/4ySk6e6O28oWCRCIlS+jEec=",
+        "email": "cherepski@gmail.com",
+        "date_joined": "2015-04-08T23:05:28.601Z"
+    },
+    "model": "auth.user",
+    "pk": 1
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:06:22.420Z",
+        "object_repr": "Y. Cespedes",
+        "object_id": "217",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 1
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:06:50.973Z",
+        "object_repr": "J. Donaldson",
+        "object_id": "218",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 2
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:07:07.237Z",
+        "object_repr": "C. Davis",
+        "object_id": "219",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 3
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:07:23.391Z",
+        "object_repr": "R. Braun",
+        "object_id": "220",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 4
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:07:41.062Z",
+        "object_repr": "S. Pearce",
+        "object_id": "221",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 5
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:07:57.075Z",
+        "object_repr": "G. Springer",
+        "object_id": "222",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 6
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:08:14.008Z",
+        "object_repr": "R. Cano",
+        "object_id": "223",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 7
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:08:28.173Z",
+        "object_repr": "N. Arenado",
+        "object_id": "224",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 8
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:08:42.557Z",
+        "object_repr": "B. Belt",
+        "object_id": "225",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 9
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:08:58.903Z",
+        "object_repr": "S. Marte",
+        "object_id": "226",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 10
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:09:15.226Z",
+        "object_repr": "B. Moss",
+        "object_id": "227",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 11
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:09:31.069Z",
+        "object_repr": "H. Pence",
+        "object_id": "228",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 12
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:10:27.719Z",
+        "object_repr": "M. Holiday",
+        "object_id": "229",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 13
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:11:44.401Z",
+        "object_repr": "S. Smith",
+        "object_id": "230",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 14
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:12:23.874Z",
+        "object_repr": "G. Jones",
+        "object_id": "231",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 15
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:12:45.225Z",
+        "object_repr": "J. Werth",
+        "object_id": "232",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 16
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:12:58.582Z",
+        "object_repr": "J. Rollins",
+        "object_id": "233",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 17
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:13:37.665Z",
+        "object_repr": "M. Teixera",
+        "object_id": "234",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 18
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:13:52.978Z",
+        "object_repr": "M. Machado",
+        "object_id": "235",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 19
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:14:07.373Z",
+        "object_repr": "X. Bogaerts",
+        "object_id": "236",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 20
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:14:26.914Z",
+        "object_repr": "S. Soo-Choo",
+        "object_id": "237",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 21
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:14:52.081Z",
+        "object_repr": "M. Montero",
+        "object_id": "238",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 22
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:15:06.406Z",
+        "object_repr": "M. Kemp",
+        "object_id": "239",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 23
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:15:33.662Z",
+        "object_repr": "C. Dickerson",
+        "object_id": "240",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 24
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:15:51.253Z",
+        "object_repr": "C. Granderson",
+        "object_id": "241",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 25
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:16:10.861Z",
+        "object_repr": "M. Wieters",
+        "object_id": "242",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 26
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:16:25.346Z",
+        "object_repr": "M. Prado",
+        "object_id": "243",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 27
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:16:40.273Z",
+        "object_repr": "J. Reddick",
+        "object_id": "244",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 28
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:16:55.977Z",
+        "object_repr": "M. Napoli",
+        "object_id": "245",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 29
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:17:12.932Z",
+        "object_repr": "K. Wong",
+        "object_id": "246",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 30
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:17:51.287Z",
+        "object_repr": "J. Abreu",
+        "object_id": "247",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 31
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:18:07.787Z",
+        "object_repr": "K. Davis",
+        "object_id": "248",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 32
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:18:28.018Z",
+        "object_repr": "T. D'Arnaud",
+        "object_id": "249",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 33
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:18:42.841Z",
+        "object_repr": "A. LaRoche",
+        "object_id": "250",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 34
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:19:00.785Z",
+        "object_repr": "J. Singleton",
+        "object_id": "251",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 35
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-08T23:22:43.814Z",
+        "object_repr": "Jersey Joceys",
+        "object_id": "10",
+        "change_message": "Changed player.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 36
+},
+{
+    "fields": {
+        "action_flag": 3,
+        "action_time": "2015-04-08T23:23:02.727Z",
+        "object_repr": "M. Holiday",
+        "object_id": "229",
+        "change_message": "",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 37
+},
+{
+    "fields": {
+        "action_flag": 1,
+        "action_time": "2015-04-13T00:04:02.471Z",
+        "object_repr": "The Great Wugino",
+        "object_id": "61",
+        "change_message": "",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 38
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-04-13T12:34:24.929Z",
+        "object_repr": "A. Jones",
+        "object_id": "152",
+        "change_message": "Changed mlb_id.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 39
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-05-20T02:49:26.764Z",
+        "object_repr": "Mazztradamus",
+        "object_id": "16",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 40
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-05-20T03:06:06.378Z",
+        "object_repr": "Sports Pope",
+        "object_id": "40",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 41
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-05-20T03:06:16.643Z",
+        "object_repr": "Better Call Paul..Goldschmidt",
+        "object_id": "14",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 42
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T22:59:37.242Z",
+        "object_repr": "T & D Sluggers",
+        "object_id": "59",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 43
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:16:08.191Z",
+        "object_repr": "Better Call Paul..Goldschmidt",
+        "object_id": "14",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 44
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:16:23.621Z",
+        "object_repr": "Staten Island Longshoreman",
+        "object_id": "27",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 45
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:31:36.476Z",
+        "object_repr": "Monthly Donation",
+        "object_id": "36",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 46
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:31:47.021Z",
+        "object_repr": "86 Mets",
+        "object_id": "56",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 47
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:31:55.949Z",
+        "object_repr": "OTW",
+        "object_id": "55",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 48
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:32:04.914Z",
+        "object_repr": "Bounty Hunters",
+        "object_id": "38",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 49
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:32:13.796Z",
+        "object_repr": "Syphilitic Madness",
+        "object_id": "21",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 50
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:32:24.731Z",
+        "object_repr": "Sports Pope",
+        "object_id": "40",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 51
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:32:33.309Z",
+        "object_repr": "O's Before Hoes",
+        "object_id": "6",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 52
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:32:42.127Z",
+        "object_repr": "Let's Play 2",
+        "object_id": "1",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 53
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2015-07-06T23:32:51.679Z",
+        "object_repr": "Team F.U.S.",
+        "object_id": "12",
+        "change_message": "Changed earnings.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 54
+}
+]
