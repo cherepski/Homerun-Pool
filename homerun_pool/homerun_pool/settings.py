@@ -72,7 +72,7 @@ DATABASES = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': '/root/Homerun-Pool/homerun_pool/homerun_pool.db',
+        'NAME': 'homerun_pool.db',
     }
 }
 

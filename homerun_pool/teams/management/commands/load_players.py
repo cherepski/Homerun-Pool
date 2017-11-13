@@ -21,4 +21,6 @@ class Command(BaseCommand):
 				else:
 					for index, name in enumerate(row):
 						player, created = Player.objects.get_or_create(name=name)
+						if created:
+							print player.name
 						team_list[index].player.add(player)
